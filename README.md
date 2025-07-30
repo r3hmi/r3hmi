@@ -8,15 +8,18 @@
 ## 🧠 AI Engineering Projects
 
 - <b>Modular RAG: Feedback-Informed Evaluation and Continual Learning</b>  
-  A Modular Architecture for Retrieval-Augmented Generation with Integrated Evaluation and Continual Learning. 
+  A Modular Architecture for Retrieval-Augmented Generation with Integrated Evaluation and Continual Learning.
+  
   ➡️ [RAG App Repo](https://github.com/r3hmi/mosaic-rag-app)
 
 - <b>Deployable Claude Agents – Using Amazon Bedrock AgentCore</b>  
-  Builds enterprise-grade Claude agents with tool integration via Bedrock AgentCore SDK.  
+  Builds enterprise-grade Claude agents with tool integration via Bedrock AgentCore SDK.
+  
   ➡️ [Claude AgentCore Project](https://github.com/r3hmi/claude-bedrock-agentcore)
 
 - <b>BERT vs. DistilBERT for QA – A/B Testing Performance Evaluation</b>  
   Head-to-head comparison of QA models across latency, accuracy, and cost-efficiency metrics.  
+
   ➡️ [QA Model Evaluation](https://github.com/r3hmi/bert-distilbert-ab-testing)
 
 ---
@@ -25,10 +28,12 @@
 
 - <b>Graph‑MLOps on SageMaker: ETA Prediction with Neo4j & LLMs</b>  
   Combines SageMaker and Neo4j to model delivery routes using graph ML and LLM-embedded features.  
+
   ➡️ [Graph MLOps Project](https://github.com/r3hmi/graph-mlops-neo4j-eta)
 
 - <b>TSP Optimizer as a Service – Streamlit Dashboard for Dynamic Routing</b>  
   Solves dynamic routing using metaheuristics, visualized through an interactive Streamlit interface.  
+
   ➡️ [TSP Dashboard App](https://github.com/r3hmi/tsp-optimizer-streamlit)
 
 ---
@@ -37,14 +42,17 @@
 
 - <b>The Pragmatic Unicorn (Book)</b>  
   A playbook for building production-grade analytics and AI solutions with agility, ethics, and scalability.  
+
   ➡️ [Pragmatic Unicorn Repo](https://github.com/r3hmi/pragmatic-unicorn-book)
 
 - <b>Futures Framework (White Paper)</b>  
   Strategic blueprint for emerging roles in AI and Data, mapping technical and human capabilities for future workforces.  
+
   ➡️ [Futures Framework Repo](https://github.com/r3hmi/futures-framework-whitepaper)
 
 - <b>AI Native Analytics with Julius (Tutorial Series)</b>  
   Includes the **Prompt Verbiage Framework**, which maps GenAI prompts to classical statistical analysis typologies (Descriptive, Inferential, Predictive, Prescriptive).  
+
   ➡️ [Julius Tutorial Repo](https://github.com/r3hmi/ai-native-analytics-julius)
   
 ---
