@@ -10,13 +10,13 @@
 **Stack:** Python · FastAPI · Streamlit · Hugging Face Transformers · FAISS · Continual Learning Modules · Hugging Face Spaces  
 A modular architecture for Retrieval-Augmented Generation (RAG) featuring feedback-driven evaluation and continual learning.
 
---
+
 
 ### 🔹 [Deployable Claude Agents – Using Amazon Bedrock AgentCore](https://github.com/r3hmi/claude-bedrock-agentcore)
 **Stack:** Amazon Bedrock · Claude · AgentCore SDK  
 Builds production-ready Claude agents with integrated tool capabilities using Amazon Bedrock’s AgentCore SDK.
 
---
+
 
 ### 🔹 [BERT vs. DistilBERT for QA – A/B Testing Performance Evaluation](https://github.com/r3hmi/bert-distilbert-ab-testing)
 **Stack:** Python · Hugging Face Transformers · Streamlit  
@@ -30,7 +30,7 @@ A head-to-head A/B test comparing BERT and DistilBERT across latency, accuracy, 
 **Stack:** AWS SageMaker · Neo4j · Graph ML · LLMs  
 Combines Amazon SageMaker with Neo4j to model last-mile delivery routes using graph-based ML and LLM-embedded features for enhanced ETA prediction.
 
---
+
 
 ### 🔹 [TSP Optimizer as a Service – Streamlit Dashboard for Dynamic Routing](https://github.com/r3hmi/tsp-optimizer-streamlit)
 **Stack:** Python · Metaheuristics · Streamlit · Dynamic Routing  
@@ -44,13 +44,13 @@ Solves the Traveling Salesperson Problem using metaheuristic algorithms and deli
 **Format:** Book · Educational Playbook  
 A practical guide for building production-grade analytics and AI solutions with agility, ethics, and scalability at the core.
 
---
+
 
 ### 🔹 [Futures Framework (White Paper)](https://github.com/r3hmi/futures-framework-whitepaper)
 **Format:** White Paper · Strategic Framework  
 A strategic blueprint for defining emerging roles in AI and Data — mapping technical competencies and human capabilities for the future of work.
 
---
+
 
 ### 🔹 [AI Native Analytics with Julius (Tutorial Series)](https://github.com/r3hmi/ai-native-analytics-julius)
 **Format:** Tutorial Series · GenAI + Statistics  
