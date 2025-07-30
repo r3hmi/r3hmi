@@ -7,7 +7,7 @@
 
 ## 🧠 AI Engineering Projects
 
-- <b>Mosaic RAG App – End-to-End RAG with Evaluation and Continual Learning</b>  
+- <b>Modular RAG: Feedback-Informed Evaluation and Continual Learning</b>  
   Full-stack RAG system featuring feedback-driven evaluation, continual learning, and scalable LLM-backed retrieval.  
   ➡️ [RAG App Repo](https://github.com/r3hmi/mosaic-rag-app)
 
