@@ -8,7 +8,7 @@
 ## 🧠 AI Engineering Projects
 
 - <b>Modular RAG: Feedback-Informed Evaluation and Continual Learning</b>  
-  Full-stack RAG system featuring feedback-driven evaluation, continual learning, and scalable LLM-backed retrieval.  
+  A Modular Architecture for Retrieval-Augmented Generation with Integrated Evaluation and Continual Learning. 
   ➡️ [RAG App Repo](https://github.com/r3hmi/mosaic-rag-app)
 
 - <b>Deployable Claude Agents – Using Amazon Bedrock AgentCore</b>  
