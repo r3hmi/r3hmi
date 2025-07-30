@@ -4,56 +4,57 @@
 <a href="https://www.linkedin.com/in/imranrehmi">Problem Solver</a>  
 
 ---
-
 ## 🧠 AI Engineering Projects
 
-- <b>Modular RAG: Feedback-Informed Evaluation and Continual Learning</b>  
-  A Modular Architecture for Retrieval-Augmented Generation with Integrated Evaluation and Continual Learning.
-  
-  ➡️ [RAG App Repo](https://github.com/r3hmi/mosaic-rag-app)
+### 🔹 [Modular RAG: Feedback-Informed Evaluation and Continual Learning](https://github.com/r3hmi/mosaic-rag-app)
+**Stack:** Python · FastAPI · Streamlit · Hugging Face Transformers · FAISS · Continual Learning Modules · Hugging Face Spaces  
+A modular architecture for Retrieval-Augmented Generation (RAG) featuring feedback-driven evaluation and continual learning.
 
-- <b>Deployable Claude Agents – Using Amazon Bedrock AgentCore</b>  
-  Builds enterprise-grade Claude agents with tool integration via Bedrock AgentCore SDK.
-  
-  ➡️ [Claude AgentCore Project](https://github.com/r3hmi/claude-bedrock-agentcore)
+--
 
-- <b>BERT vs. DistilBERT for QA – A/B Testing Performance Evaluation</b>  
-  Head-to-head comparison of QA models across latency, accuracy, and cost-efficiency metrics.  
+### 🔹 [Deployable Claude Agents – Using Amazon Bedrock AgentCore](https://github.com/r3hmi/claude-bedrock-agentcore)
+**Stack:** Amazon Bedrock · Claude · AgentCore SDK  
+Builds production-ready Claude agents with integrated tool capabilities using Amazon Bedrock’s AgentCore SDK.
 
-  ➡️ [QA Model Evaluation](https://github.com/r3hmi/bert-distilbert-ab-testing)
+--
+
+### 🔹 [BERT vs. DistilBERT for QA – A/B Testing Performance Evaluation](https://github.com/r3hmi/bert-distilbert-ab-testing)
+**Stack:** Python · Hugging Face Transformers · Streamlit  
+A head-to-head A/B test comparing BERT and DistilBERT across latency, accuracy, and cost-efficiency metrics.
 
 ---
 
 ## 📊 Analytical & MLOps Projects
 
-- <b>Graph‑MLOps on SageMaker: ETA Prediction with Neo4j & LLMs</b>  
-  Combines SageMaker and Neo4j to model delivery routes using graph ML and LLM-embedded features.  
+### 🔹 [Graph‑MLOps on SageMaker: ETA Prediction with Neo4j & LLMs](https://github.com/r3hmi/graph-mlops-neo4j-eta)
+**Stack:** AWS SageMaker · Neo4j · Graph ML · LLMs  
+Combines Amazon SageMaker with Neo4j to model last-mile delivery routes using graph-based ML and LLM-embedded features for enhanced ETA prediction.
 
-  ➡️ [Graph MLOps Project](https://github.com/r3hmi/graph-mlops-neo4j-eta)
+--
 
-- <b>TSP Optimizer as a Service – Streamlit Dashboard for Dynamic Routing</b>  
-  Solves dynamic routing using metaheuristics, visualized through an interactive Streamlit interface.  
-
-  ➡️ [TSP Dashboard App](https://github.com/r3hmi/tsp-optimizer-streamlit)
+### 🔹 [TSP Optimizer as a Service – Streamlit Dashboard for Dynamic Routing](https://github.com/r3hmi/tsp-optimizer-streamlit)
+**Stack:** Python · Metaheuristics · Streamlit · Dynamic Routing  
+Solves the Traveling Salesperson Problem using metaheuristic algorithms and delivers real-time routing optimization via an interactive Streamlit dashboard.
 
 ---
 
 ## 📘 Publications, Frameworks & Educational Content
 
-- <b>The Pragmatic Unicorn (Book)</b>  
-  A playbook for building production-grade analytics and AI solutions with agility, ethics, and scalability.  
+### 🔹 [The Pragmatic Unicorn (Book)](https://github.com/r3hmi/pragmatic-unicorn-book)
+**Format:** Book · Educational Playbook  
+A practical guide for building production-grade analytics and AI solutions with agility, ethics, and scalability at the core.
 
-  ➡️ [Pragmatic Unicorn Repo](https://github.com/r3hmi/pragmatic-unicorn-book)
+--
 
-- <b>Futures Framework (White Paper)</b>  
-  Strategic blueprint for emerging roles in AI and Data, mapping technical and human capabilities for future workforces.  
+### 🔹 [Futures Framework (White Paper)](https://github.com/r3hmi/futures-framework-whitepaper)
+**Format:** White Paper · Strategic Framework  
+A strategic blueprint for defining emerging roles in AI and Data — mapping technical competencies and human capabilities for the future of work.
 
-  ➡️ [Futures Framework Repo](https://github.com/r3hmi/futures-framework-whitepaper)
+--
 
-- <b>AI Native Analytics with Julius (Tutorial Series)</b>  
-  Includes the **Prompt Verbiage Framework**, which maps GenAI prompts to classical statistical analysis typologies (Descriptive, Inferential, Predictive, Prescriptive).  
-
-  ➡️ [Julius Tutorial Repo](https://github.com/r3hmi/ai-native-analytics-julius)
+### 🔹 [AI Native Analytics with Julius (Tutorial Series)](https://github.com/r3hmi/ai-native-analytics-julius)
+**Format:** Tutorial Series · GenAI + Statistics  
+Features the **Prompt Verbiage Framework**, connecting GenAI prompting techniques to classical statistical typologies: Descriptive, Inferential, Predictive, and Prescriptive analytics.
   
 ---
 
