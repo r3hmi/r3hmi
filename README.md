@@ -55,7 +55,7 @@ A strategic blueprint for defining emerging roles in AI and Data — mapping tec
 Features the **Prompt Verbiage Framework**, connecting GenAI prompting techniques to classical statistical typologies: Descriptive, Inferential, Predictive, and Prescriptive analytics.
 
  ### 🔹 [Human(s) in the loop: exploring the collaborative continuum of Humans and  AI.](https://github.com/r3hmi/irm-conf)
-**Format:** IRM Conf Slides   
+**Format:** IRM Dat Conf 2023 - Slides 
 
 
 ---
