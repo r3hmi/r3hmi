@@ -53,7 +53,9 @@ A strategic blueprint for defining emerging roles in AI and Data — mapping tec
 ### 🔹 [AI Native Analytics with Julius (Tutorial Series)](https://github.com/r3hmi/ai-native-analytics-julius)
 **Format:** Tutorial Series · GenAI + Statistics  
 Features the **Prompt Verbiage Framework**, connecting GenAI prompting techniques to classical statistical typologies: Descriptive, Inferential, Predictive, and Prescriptive analytics.
-  
+
+ ### 🔹 [Human(s) in the loop: exploring the collaborative continuum of Humans and  AI.](https://github.com/r3hmi/irm-conf)
+**Format:** IRM Conf Slides   
 ---
 
 ## 📺 Featured Videos & Talks
