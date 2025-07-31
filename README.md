@@ -28,8 +28,7 @@ A head-to-head A/B test comparing BERT and DistilBERT across latency, accuracy, 
 
 ### 🔹 [Graph‑MLOps on SageMaker: ETA Prediction with Neo4j & LLMs](https://github.com/r3hmi/graph-mlops-neo4j-eta)
 **Stack:** AWS SageMaker · Neo4j · Graph ML · LLMs  
-Combines Amazon SageMaker with Neo4j to model last-mile delivery routes using graph-based ML and LLM-embedded features for enhanced ETA prediction.
-
+Combines Amazon SageMaker with Neo4j to model last-mile delivery routes using graph-based ML and LLM-embedded features for enhanced ETA prediction. Utalising the Last Mile Delivery Simulation Dataset (Berkeley DeepDrive).
 
 
 ### 🔹 [TSP Optimizer as a Service – Streamlit Dashboard for Dynamic Routing](https://github.com/r3hmi/tsp-optimizer-streamlit)
