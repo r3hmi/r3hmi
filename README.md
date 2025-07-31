@@ -6,7 +6,7 @@
 ---
 ## 🧠 AI Engineering Projects
 
-### 🔹 [Modular RAG: Feedback-Informed Evaluation and Continual Learning](https://github.com/r3hmi/mosaic-rag-app)
+### 🔹 [Modular RAG: Feedback-Informed Evaluation and Continual Learning](https://github.com/r3hmi/Mod-rag-app)
 **Stack:** Python · FastAPI · Streamlit · Hugging Face Transformers · FAISS · Continual Learning Modules · Hugging Face Spaces  
 A modular architecture for Retrieval-Augmented Generation (RAG) featuring feedback-driven evaluation and continual learning.
 
@@ -41,7 +41,7 @@ Solves the Traveling Salesperson Problem using metaheuristic algorithms and deli
 ## 📘 Publications, Frameworks & Educational Content
 
 ### 🔹 [The Pragmatic Unicorn (Book)](https://github.com/r3hmi/pragmatic-unicorn-book)
-**Format:** Book · Educational Playbook  
+**Format:** Book · Educational   
 A practical guide for building production-grade analytics and AI solutions with agility, ethics, and scalability at the core.
 
 
