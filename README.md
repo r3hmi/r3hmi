@@ -56,6 +56,8 @@ Features the **Prompt Verbiage Framework**, connecting GenAI prompting technique
 
  ### 🔹 [Human(s) in the loop: exploring the collaborative continuum of Humans and  AI.](https://github.com/r3hmi/irm-conf)
 **Format:** IRM Conf Slides   
+
+
 ---
 
 ## 📺 Featured Videos & Talks
