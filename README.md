@@ -58,8 +58,9 @@ Features the **Prompt Verbiage Framework**, connecting GenAI prompting technique
 **Format:** IRM Dat Conf 2023 - Slides 
 
 
----
 
+
+<!--
 ## 📺 Featured Videos & Talks
 
 - [AI Native Analytics: Beyond Dashboards](https://www.youtube.com/@r3hmi)  
@@ -73,8 +74,8 @@ Features the **Prompt Verbiage Framework**, connecting GenAI prompting technique
 
 - [How I Built a Streamlit App for Dynamic TSP](https://www.youtube.com/@r3hmi)  
   _Coming soon_
+-->
 
----
 
 ## 🤝 Connect with Me
 
