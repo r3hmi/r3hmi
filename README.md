@@ -26,6 +26,10 @@ A head-to-head A/B test comparing BERT and DistilBERT across latency, accuracy, 
 
 ## 📊 Analytical & MLOps Projects
 
+### 🔹 [TrendPulse: Real-Time Fashion Trend Graph & Recommendation Engine](https://github.com/r3hmi/graph-mlops-neo4j-eta)
+**Stack:** AWS Kinesis · AWS Glue/Athena · Amazon SageMaker (Pipelines, Feature Store) · OpenSearch (vectors) · Graph ML (DGL) · AppSync/GraphQL
+Streams listing/engagement signals into a marketplace trend graph to detect micro-trends and serve “Trending Now” recs; trains temporal graph embeddings in SageMaker and exposes real-time APIs, using simulated clickstream + H&M Personalized Fashion (Kaggle) and Fashion-Gen tags for bootstrapping.
+
 ### 🔹 [Graph‑MLOps on SageMaker: ETA Prediction with Neo4j & LLMs](https://github.com/r3hmi/graph-mlops-neo4j-eta)
 **Stack:** AWS SageMaker · Neo4j · Graph ML · LLMs  
 Combines Amazon SageMaker with Neo4j to model last-mile delivery routes using graph-based ML and LLM-embedded features for enhanced ETA prediction. Utalising LaDe (Industry-grade Delivery Dataset); Covers ~10.677 million packages delivered by ~21,000 couriers over 6 months in real operations across multiple cities.
@@ -43,11 +47,9 @@ Solves the Traveling Salesperson Problem using metaheuristic algorithms and deli
 A practical guide for building production-grade analytics and AI solutions with agility, ethics, and scalability at the core.
 
 
-
 ### 🔹 [Futures Framework (White Paper)](https://github.com/r3hmi/futures-framework-whitepaper)
 **Format:** White Paper · Strategic Framework  
 A strategic blueprint for defining emerging roles in AI and Data — mapping technical competencies and human capabilities for the future of work.
-
 
 
 ### 🔹 [AI Native Analytics with Julius (Tutorial Series)](https://github.com/r3hmi/ai-native-analytics-julius)
