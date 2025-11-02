@@ -24,17 +24,35 @@ A head-to-head A/B test comparing BERT and DistilBERT across latency, accuracy, 
 
 ---
 
-## 📊 Analytical & MLOps Projects
+## MLOps Projects
 
-### 🔹 [TrendPulse: Real-Time Fashion Trend Graph & Recommendation Engine](https://github.com/r3hmi/graph-mlops-neo4j-eta)
-**Stack:** AWS Kinesis · AWS Glue/Athena · Amazon SageMaker (Pipelines, Feature Store) · OpenSearch (vectors) · Graph ML (DGL) · AppSync/GraphQL
-Streams listing/engagement signals into a marketplace trend graph to detect micro-trends and serve “Trending Now” recs; trains temporal graph embeddings in SageMaker and exposes real-time APIs, using simulated clickstream + H&M Personalized Fashion (Kaggle) and Fashion-Gen tags for bootstrapping.
+### 🔹 [Industrial IoT Predictive Maintenance (End-to-End MLOps Pipeline)](https://github.com/r3hmi/graph-mlops-neo4j-eta)
+
+** Stack: ** PySpark · MLflow (Tracking & Registry) · FastAPI · Docker · Kubernetes (Helm) · Prometheus/Grafana · Evidently.ai · DVC · Neo4j
+
+Predicts equipment failures in industrial IoT systems before they occur, reducing costly downtime. Implements a fully containerized MLOps workflow — from Spark-based feature engineering and MLflow-tracked model training to FastAPI-based serving on Kubernetes. Includes CI/CD automation (GitHub Actions), real-time drift detection (Prometheus + Evidently), and lineage tracking in Neo4j for full auditability and compliance.
+
+### 🔹 [RecomPulse: E-Commerce Personalization Engine (End-to-End MLOps)](https://github.com/r3hmi/graph-mlops-neo4j-eta)
+
+**Stack:** Kafka/Kinesis · PySpark · Feature Store (Feast/Redis) · Neo4j · MLflow (Tracking & Registry) · FastAPI · Docker · Kubernetes (Helm) · Prometheus/Grafana · DVC
+
+Streams clicks, carts, and purchases into a lakehouse to train a hybrid recommender (ALS + content + graph features). Ships a low-latency FastAPI microservice with ANN retrieval → model re-rank, auto-scaled on Kubernetes. CI/CD handles canary rollouts; Prometheus/Grafana watch CTR, conversion, drift, and fairness, with MLflow-driven retraining to keep recs fresh and relevant.
+
+### 🔹 [DelaySense: Responsible AI for Delivery Risk (Explainable Tabular ML)](https://github.com/r3hmi/graph-mlops-neo4j-eta)
+
+**Stack:** XGBoost/RandomForest · SHAP · LIME · Probability Calibration · Streamlit · MLflow · DVC
+
+Predicts shipment delays with calibrated probabilities and human-friendly explanations. Ships an interactive Streamlit app for real-time scoring and what-if analysis (sliders, counterfactuals), plus global & local explainability (SHAP/LIME) so logistics teams can see why a delivery is flagged and how to reduce risk.
 
 ### 🔹 [Graph‑MLOps on SageMaker: ETA Prediction with Neo4j & LLMs](https://github.com/r3hmi/graph-mlops-neo4j-eta)
+
 **Stack:** AWS SageMaker · Neo4j · Graph ML · LLMs  
 Combines Amazon SageMaker with Neo4j to model last-mile delivery routes using graph-based ML and LLM-embedded features for enhanced ETA prediction. Utalising LaDe (Industry-grade Delivery Dataset); Covers ~10.677 million packages delivered by ~21,000 couriers over 6 months in real operations across multiple cities.
 
+## 📊 Analytical Projects
+
 ### 🔹 [TSP Optimizer as a Service – Streamlit Dashboard for Dynamic Routing](https://github.com/r3hmi/tsp-optimizer-streamlit)
+
 **Stack:** Python · Metaheuristics · Streamlit · Dynamic Routing  
 Solves the Traveling Salesperson Problem using metaheuristic algorithms and delivers real-time routing optimization via an interactive Streamlit dashboard.
 
@@ -46,37 +64,6 @@ Solves the Traveling Salesperson Problem using metaheuristic algorithms and deli
 **Format:** Book · Educational   
 A practical guide for building production-grade analytics and AI solutions with agility, ethics, and scalability at the core.
 
-
-### 🔹 [Futures Framework (White Paper)](https://github.com/r3hmi/futures-framework-whitepaper)
-**Format:** White Paper · Strategic Framework  
-A strategic blueprint for defining emerging roles in AI and Data — mapping technical competencies and human capabilities for the future of work.
-
-
-### 🔹 [AI Native Analytics with Julius (Tutorial Series)](https://github.com/r3hmi/ai-native-analytics-julius)
-**Format:** Tutorial Series · GenAI + Statistics  
-Features the **Prompt Verbiage Framework**, connecting GenAI prompting techniques to classical statistical typologies: Descriptive, Inferential, Predictive, and Prescriptive analytics.
-
- ### 🔹 [Human(s) in the loop: exploring the collaborative continuum of Humans and  AI.](https://github.com/r3hmi/irm-conf)
-**Format:** IRM Dat Conf 2023 - Slides 
-
-
-
-
-<!--
-## 📺 Featured Videos & Talks
-
-- [AI Native Analytics: Beyond Dashboards](https://www.youtube.com/@r3hmi)  
-  _Coming soon_
-
-- [Building Deployable Claude Agents with Bedrock](https://www.youtube.com/@r3hmi)  
-  _Coming soon_
-
-- [Graph + LLMs: Predicting Delivery Time with Neo4j](https://www.youtube.com/@r3hmi)  
-  _Coming soon_
-
-- [How I Built a Streamlit App for Dynamic TSP](https://www.youtube.com/@r3hmi)  
-  _Coming soon_
--->
 
 
 ## 🤝 Connect with Me
