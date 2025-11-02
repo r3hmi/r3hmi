@@ -1,4 +1,4 @@
-<h1>Hi, I'm Imran Rehmi! <br/>
+<h1>Hi, I'm Imran Rehmi! 🤖 <br/>
 <a href="https://github.com/r3hmi">Engineer</a> • 
 <a href="https://www.linkedin.com/in/imranrehmi">Practitioner</a> • 
 <a href="https://www.linkedin.com/in/imranrehmi">Problem Solver</a>  
@@ -24,7 +24,7 @@ A head-to-head A/B test comparing BERT and DistilBERT across latency, accuracy, 
 
 ---
 
-## MLOps Projects
+## 🛠️ MLOps Projects
 
 ### 🔹 [Industrial IoT Predictive Maintenance (End-to-End MLOps Pipeline)](https://github.com/r3hmi/graph-mlops-neo4j-eta)
 
@@ -49,6 +49,8 @@ Predicts shipment delays with calibrated probabilities and human-friendly explan
 **Stack:** AWS SageMaker · Neo4j · Graph ML · LLMs  
 Combines Amazon SageMaker with Neo4j to model last-mile delivery routes using graph-based ML and LLM-embedded features for enhanced ETA prediction. Utalising LaDe (Industry-grade Delivery Dataset); Covers ~10.677 million packages delivered by ~21,000 couriers over 6 months in real operations across multiple cities.
 
+---
+
 ## 📊 Analytical Projects
 
 ### 🔹 [TSP Optimizer as a Service – Streamlit Dashboard for Dynamic Routing](https://github.com/r3hmi/tsp-optimizer-streamlit)
@@ -58,7 +60,7 @@ Solves the Traveling Salesperson Problem using metaheuristic algorithms and deli
 
 ---
 
-## 📘 Publications, Frameworks & Educational Content
+## 📖 Publications, Frameworks & Educational Content
 
 ### 🔹 [The Pragmatic Unicorn (Book)](https://github.com/r3hmi/pragmatic-unicorn-book)
 **Format:** Book · Educational   
