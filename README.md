@@ -8,6 +8,7 @@
 
 ### 🔹 [Modular RAG: Feedback-Informed Evaluation & Continual Learning](https://github.com/r3hmi/Mod-rag-app)
 **Stack:** Python · FastAPI · Streamlit · Hugging Face Transformers · FAISS · Prefect · DVC · MLflow · Evidently AI · Prometheus/Grafana · Guardrails AI
+
 Implements a modular Retrieval-Augmented Generation (RAG) system with continuous feedback loops and retraining. A Prefect-orchestrated pipeline manages embedding refresh, evaluation (nDCG, faithfulness, G-Eval), and prompt AB testing. FastAPI microservices expose retrieval, generation, and feedback APIs with health probes and autoscaling. Evidently AI monitors retrieval precision and hallucination drift, while Guardrails AI enforces safety and PII redaction. All artifacts and datasets are versioned with DVC + MLflow for full reproducibility. CI/CD (GitHub Actions → Helm) performs lint + tests + signed-image deployment. Model and data cards document fairness, bias, and hallucination mitigation policies.
 
 
@@ -15,7 +16,6 @@ Implements a modular Retrieval-Augmented Generation (RAG) system with continuous
 **Stack:** Amazon Bedrock · Claude · AgentCore SDK · AWS CDK · FastAPI Gateway · Prometheus/Loki/Grafana · IAM Policies · Terraform 
 
 Delivers production-ready Bedrock agents with dynamic tool orchestration and strict governance. Agent scorecards track task success, latency, and cost across prompt versions. IaC (CDK + Terraform) provisions reproducible environments; CI/CD runs static analysis, secret scanning, and signed container pushes. Tool schemas are validated with Pydantic contracts; sandbox proxies log all tool I/O for traceability. Observability includes structured traces (OpenTelemetry), metrics, and alerting pipelines to Slack. Security is enterprise-grade: least-privilege IAM roles, KMS-encrypted logs, VPC-only endpoints, and automated credential rotation. Runbooks define rollback, abuse-handling, and SLA recovery procedures.
-
 
 
 ### 🔹 [BERT vs. DistilBERT for QA – A/B Testing Performance Evaluation](https://github.com/r3hmi/bert-distilbert-ab-testing)
@@ -62,16 +62,17 @@ Combines SageMaker Pipelines and Neo4j to forecast last-mile delivery ETAs using
 
 **Stack:** Python · Metaheuristics · Streamlit · Dynamic Routing  
 
-Solves the Traveling Salesperson Problem using metaheuristic algorithms and delivers real-time routing optimization via an interactive Streamlit dashboard.
+Solves the Traveling Salesperson Problem (TSP) using advanced metaheuristic algorithms such as Simulated Annealing, Tabu Search, and Guided Local Search to optimize dynamic routing scenarios. Built with Python, the system supports real-time recalculation of optimal routes when new nodes or constraints are introduced, making it suitable for logistics and delivery operations. An interactive Streamlit dashboard visualizes routes, performance metrics, and convergence progress, allowing users to compare algorithm efficiency, explore cost–distance trade-offs, and simulate route adjustments on demand. The solution is containerized for deployment and includes modular hooks for integration with APIs or real-time data feeds.
 
 ---
 
 ## 📖 Publications, Frameworks & Educational Content
 
 ### 🔹 [The Pragmatic Unicorn (Book)](https://github.com/r3hmi/pragmatic-unicorn-book)
-**Format:** Book · Educational   
-A practical guide for building production-grade analytics and AI solutions with agility, ethics, and scalability at the core.
 
+**Format:** Book · Educational
+
+The Pragmatic Unicorn is a management guide that bridges strategy and execution in the era of Data and AI transformation. Designed for leaders and professionals alike, it translates complex technical concepts into actionable business strategies showing how to ideate, design, and deploy high-impact data products that drive measurable value. The book introduces specialized frameworks for Analytics and AI, practical methods for analytical problem framing, project scoping, and strategic prioritization, and explores horizontal and vertical scaling strategies to embed Data and AI at scale. With deep dives into governance, ethics, impact measurement, and team building, The Pragmatic Unicorn equips organizations to lead data-driven change from concept to delivery transforming ambition into sustainable innovation.
 
 
 ## 🤝 Connect with Me
