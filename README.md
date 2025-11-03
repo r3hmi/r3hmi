@@ -8,7 +8,6 @@
 
 ### 🔹 [Modular RAG: Feedback-Informed Evaluation & Continual Learning](https://github.com/r3hmi/Mod-rag-app)
 **Stack:** Python · FastAPI · Streamlit · Hugging Face Transformers · FAISS · Prefect · DVC · MLflow · Evidently AI · Prometheus/Grafana · Guardrails AI
-
 Implements a modular Retrieval-Augmented Generation (RAG) system with continuous feedback loops and retraining. A Prefect-orchestrated pipeline manages embedding refresh, evaluation (nDCG, faithfulness, G-Eval), and prompt AB testing. FastAPI microservices expose retrieval, generation, and feedback APIs with health probes and autoscaling. Evidently AI monitors retrieval precision and hallucination drift, while Guardrails AI enforces safety and PII redaction. All artifacts and datasets are versioned with DVC + MLflow for full reproducibility. CI/CD (GitHub Actions → Helm) performs lint + tests + signed-image deployment. Model and data cards document fairness, bias, and hallucination mitigation policies.
 
 
@@ -20,8 +19,9 @@ Delivers production-ready Bedrock agents with dynamic tool orchestration and str
 
 
 ### 🔹 [BERT vs. DistilBERT for QA – A/B Testing Performance Evaluation](https://github.com/r3hmi/bert-distilbert-ab-testing)
-**Stack:** Python · Hugging Face Transformers · Streamlit  
-A head-to-head A/B test comparing BERT and DistilBERT across latency, accuracy, and cost-efficiency metrics.
+**Stack:** Python · Hugging Face Transformers · FastAPI · Streamlit · MLflow · DVC · Prefect · Prometheus/Grafana · Locust · Evidently AI
+
+Compares BERT and DistilBERT in a production-style A/B evaluation for question-answering tasks, measuring trade-offs between accuracy, latency, throughput, and cost. Both models are deployed via FastAPI microservices and benchmarked using Locust under concurrent load, with metrics tracked in MLflow and datasets versioned in DVC. A Prefect pipeline automates data preparation, evaluation, and metric logging, while Prometheus/Grafana dashboards visualize latency–accuracy trade-offs and cost per 1 000 queries. Evidently AI monitors performance drift and calibration stability over time, and a Streamlit interface presents real-time A/B results and scenario comparisons for deployment optimization across edge and cloud environments.
 
 ---
 
