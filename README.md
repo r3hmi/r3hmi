@@ -82,7 +82,7 @@ The Pragmatic Unicorn is a management guide that bridges strategy and execution 
     <img alt="Imran | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/imranrehmi" target="_blank">
+  <a href="https://www.linkedin.com/in/imranrehmi" target="blank">
     <img alt="Imran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
 </p>
