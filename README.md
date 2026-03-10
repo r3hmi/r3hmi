@@ -5,8 +5,8 @@
 
 ---
 
-## Strategic AI Assets & Research-to-Production Systems
-*Production-grade systems bridging the gap between SOTA research and enterprise-scale MLOps.*
+## Applied AI Systems & Research-to-Production Engineering
+*Production-grade AI systems that translate state-of-the-art research into scalable, enterprise-ready ML and LLM platforms.*
 
 ### 🛰️ [ATLAS: Agent Training & Learning Archival System](https://github.com/r3hmi)
 **Stack:** `Python` | `PyTorch` | `Delta Lake` | `OpenTelemetry` | `FastAPI` | `Redis`
