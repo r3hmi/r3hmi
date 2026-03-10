@@ -1,4 +1,4 @@
-<h3>Hi, I'm Imran Rehmi! 🤖 <br/>
+<h3>Hi, I'm Rehmi! 🤖 <br/>
 <a href="https://github.com/r3hmi">Data Science Manager</a> • 
 <a href="https://www.linkedin.com/in/imranrehmi">AI Solution Arch</a> • 
 <a href="https://www.linkedin.com/in/imranrehmi">MLOps/LLMOps</a> </h3>
