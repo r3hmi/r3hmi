@@ -39,8 +39,9 @@
 ## 📂 Project Verticals: Agents, MLOps & Analytics
 
 ### 🤖 1. Agentic Systems & LLM Engineering
-* **[Bedrock AgentCore](https://github.com/r3hmi):** `AWS Bedrock` | `Claude 3.5` | `CDK` | `Terraform` | `Prometheus`
-* **[Modular RAG with Continual Learning](https://github.com/r3hmi):** `FAISS` | `Prefect` | `MLflow` | `Evidently AI` | `Guardrails AI`
+* **[Modular RAG with Continual Learning](https://github.com/r3hmi):** `Pinecone (Serverless)` | `FastAPI` | `Prefect` | `MLflow` | `Evidently AI`
+    * *Highlights:* Implemented multi-tenant vector search using **Pinecone namespaces** and automated embedding refresh pipelines.
+* **[Bedrock AgentCore](https://github.com/r3hmi):** `AWS Bedrock` | `Claude 3.5` | `CDK` | `Terraform`
 * **[LLM-Assisted Labeling](https://github.com/r3hmi):** `Snorkel` | `GPT-4 (Teacher)` | `Llama-3 (Student)` | `Weak Supervision`
 * **[Llama Email Classifier](https://github.com/r3hmi):** `QLoRA Fine-tuning` | `In-Context Learning (ICL)` | `PyTorch` | `Hugging Face`
 
