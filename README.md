@@ -69,9 +69,6 @@
 ## Connect 
 
 <p align="left">
-  <a href="https://www.tiktok.com/@r3hmi" target="_blank">
-    <img alt="TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />
-  </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/imranrehmi" target="blank">
     <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
