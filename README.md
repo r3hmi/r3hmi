@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Strategic AI Assets & Research-to-Production Systems
+## Strategic AI Assets & Research-to-Production Systems
 *Production-grade systems bridging the gap between SOTA research and enterprise-scale MLOps.*
 
 ### 🛰️ [ATLAS: Agent Training & Learning Archival System](https://github.com/r3hmi)
