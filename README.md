@@ -1,7 +1,7 @@
 <h3>Hi, I'm Rehmi! 🤖 <br/>
-<a href="https://github.com/r3hmi">Data Science Manager</a> • 
-<a href="https://www.linkedin.com/in/imranrehmi">AI Solution Arch</a> • 
-<a href="https://www.linkedin.com/in/imranrehmi">MLOps/LLMOps</a> </h3>
+<a href="https://www.linkedin.com/in/imranrehmi">Data Science Manager</a> • 
+<a href="https://www.linkedin.com/in/imranrehmi">AI Solution Lead</a> • 
+
 
 ---
 
@@ -14,8 +14,8 @@
 * **Engineering:** Integrated `OpenTelemetry` for sub-millisecond tracing of multi-agent handoffs, reducing tool-call latency through bottleneck identification.
 * **Strategic Value:** Developed **Automated Trajectory Curation**, enabling the transition from "prompt-heavy" agents to fine-tuned, high-efficiency models via DPO loops.
 
-### 🧠 [JEPA-Inspired World Model for Video Prediction](https://github.com/r3hmi)
-**Stack:** `Jax/Flax` | `XLA` | `PyTorch` | `Masked Autoencoders (MAE)` | `CUDA`
+### 🧠 [LatentWorld: Action-Conditioned JEPA World Models for Visual Prediction and Planning](https://github.com/r3hmi/-latentworld)
+**Stack:** Python · PyTorch · Vision Transformers · Gymnasium · Model Predictive Control · Weights & Biases · Hydra · Streamlit · Docker · GitHub Actions
 * **Research Implementation:** Built a **Hierarchical JEPA (H-JEPA)** prioritizing semantic future-state prediction over computationally expensive pixel-rendering.
 * **Performance:** Leveraged a **Masked Autoencoder (MAE)** backbone to achieve robust spatial-temporal understanding, essential for autonomous decision-making in high-noise environments.
 * **Innovation:** Bypasses "Pixel-Waste" to focus on high-level world logic, significantly reducing VRAM requirements for complex sequence prediction.
