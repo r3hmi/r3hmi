@@ -10,10 +10,8 @@
 
 
 ### 🧠 [LatentWorld: Action-Conditioned JEPA World Models for Visual Prediction and Planning](https://github.com/r3hmi/-latentworld)
-Stack: Python | PyTorch | Vision Transformers | Gymnasium | Model Predictive Control | Weights & Biases | Hydra | Streamlit | Docker | GitHub Actions
-
+**Stack:** `Python` | `PyTorch` | `Vision Transformers` | `Gymnasium` | `Model Predictive Control` | `Weights & Biases` | `Hydra` | `Streamlit` | `Docker` | `GitHub Actions`
 * **Description:** LatentWorld is a pure-PyTorch research implementation of an action-conditioned Joint-Embedding Predictive Architecture. Rather than generating future pixels, the model predicts how actions transform visual representations over time. The learned latent dynamics are evaluated through multi-step prediction, action sensitivity and goal-conditioned control using model-predictive planning. 
-
 * 
 * **Research Implementation:** Built a **Hierarchical JEPA (H-JEPA)** prioritizing semantic future-state prediction over computationally expensive pixel-rendering.
 * **Performance:** Leveraged a **Masked Autoencoder (MAE)** backbone to achieve robust spatial-temporal understanding, essential for autonomous decision-making in high-noise environments.
