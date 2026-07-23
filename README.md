@@ -8,14 +8,13 @@
 ## Applied AI Systems & Research-to-Production Engineering
 *Production-grade AI systems that translate state-of-the-art research into scalable, enterprise-ready ML and LLM platforms.*
 
-### 🛰️ [ATLAS: Agent Training & Learning Archival System](https://github.com/r3hmi)
-**Stack:** `Python` | `PyTorch` | `Delta Lake` | `OpenTelemetry` | `FastAPI` | `Redis`
-* **Architectural Impact:** Engineered a **Unified Trajectory Store** on Delta Lake, transforming non-deterministic agent reasoning (CoT) into versioned, queryable infrastructure.
-* **Engineering:** Integrated `OpenTelemetry` for sub-millisecond tracing of multi-agent handoffs, reducing tool-call latency through bottleneck identification.
-* **Strategic Value:** Developed **Automated Trajectory Curation**, enabling the transition from "prompt-heavy" agents to fine-tuned, high-efficiency models via DPO loops.
 
 ### 🧠 [LatentWorld: Action-Conditioned JEPA World Models for Visual Prediction and Planning](https://github.com/r3hmi/-latentworld)
-**Stack:** Python · PyTorch · Vision Transformers · Gymnasium · Model Predictive Control · Weights & Biases · Hydra · Streamlit · Docker · GitHub Actions
+Stack: Python | PyTorch | Vision Transformers | Gymnasium | Model Predictive Control | Weights & Biases | Hydra | Streamlit | Docker | GitHub Actions
+
+* **Description:** LatentWorld is a pure-PyTorch research implementation of an action-conditioned Joint-Embedding Predictive Architecture. Rather than generating future pixels, the model predicts how actions transform visual representations over time. The learned latent dynamics are evaluated through multi-step prediction, action sensitivity and goal-conditioned control using model-predictive planning. 
+
+* 
 * **Research Implementation:** Built a **Hierarchical JEPA (H-JEPA)** prioritizing semantic future-state prediction over computationally expensive pixel-rendering.
 * **Performance:** Leveraged a **Masked Autoencoder (MAE)** backbone to achieve robust spatial-temporal understanding, essential for autonomous decision-making in high-noise environments.
 * **Innovation:** Bypasses "Pixel-Waste" to focus on high-level world logic, significantly reducing VRAM requirements for complex sequence prediction.
