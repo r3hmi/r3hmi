@@ -41,9 +41,7 @@ The project explores model quantisation, accelerated inference and neural attrib
 
 ---
 
-## 03 · Sovereign AI Platform
-
-### Private Multi-Tenant LLM Serving Infrastructure
+#### 03 · Sovereign AI Platform : Private Multi-Tenant LLM Serving Infrastructure
 
 **Stack:** `vLLM` · `Llama` · `Mistral` · `Kubernetes` · `Helm` · `Karpenter` · `NVIDIA Triton` · `Istio` · `WireGuard` · `Prometheus` · `Grafana`
 
@@ -58,9 +56,7 @@ The architecture focuses on GPU utilisation, tenant isolation, secure networking
 
 ---
 
-## 04 · LatentWorld
-
-### Action-Conditioned JEPA for Visual Planning
+#### 04 · LatentWorld : Action-Conditioned JEPA for Visual Planning
 
 **Stack:** `Python` · `PyTorch` · `Vision Transformers` · `Gymnasium` · `MuJoCo` · `Model Predictive Control` · `Hydra` · `Weights & Biases`
 
@@ -74,9 +70,7 @@ Instead of predicting future pixels, the system predicts how actions transform v
 
 ---
 
-## 05 · Weak Supervision Lab
-
-### Programmatic Labelling and Model Distillation
+#### 05 · Programmatic Labelling and Model Distillation
 
 **Stack:** `Python` · `Snorkel` · `Hugging Face` · `PyTorch` · `QLoRA` · `PEFT` · `Llama 3` · `MLflow` · `FastAPI`
 
@@ -91,9 +85,9 @@ The system combines labelling functions, probabilistic label aggregation, teache
 
 ---
 
-# Lecture Series
+### Lecture Series
 
-## Series 01 · Leading AI from Strategy to Scale
+#### Series 01 · Leading AI from Strategy to Scale
 
 ### Applying PMI-CPMAI to Enterprise AI Delivery
 
@@ -112,9 +106,9 @@ A practitioner-focused lecture series connecting AI strategy, governance and tec
 
 ---
 
-## Series 02 · AI-Native Analytics with Codex
+## Series 02 · AI-Native Analytics with Codex: 
 
-### The Science and Art of Data
+### The Science of Data Art. 
 
 A technical lecture series examining how AI coding agents can support modern analytical workflows without replacing human judgement.
 
@@ -129,15 +123,10 @@ A technical lecture series examining how AI coding agents can support modern ana
 
 **Audience:** Data scientists, analytics engineers, BI practitioners and technical leaders.
 
-1.Leading AI from Strategy to Scale:PMI-CPMAI Framework.Translating Executive Strategy into Governed, Measurable AI DeliveryFramework for moving AI initiatives from opportunity discovery to production.Focuses on business-value hypotheses, risk management, human oversight, and CPMAI adoption lifecycles.Target Audience: AI Leaders, Program Managers, Product & Transformation Teams.2.AI-Native Analytics with Codex:Hands-on Workshop Series.Augmenting the Modern Analytical Workflow with AI AgentsExplores pair-programming patterns for exploratory analysis, feature engineering, and statistical modeling.Covers analytical risk, hallucination mitigation, code validation, and preserving human judgment in automated workflows.Target Audience: Data Scientists, Analytics Engineers, and Technical Leaders.
-
-
-
-
 
 ---
 
-# Engineering Guides
+# Tutorials 
 
 | Guide                                           | Technologies                     | Core Topics                                                                        |
 | ----------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------------------- |
