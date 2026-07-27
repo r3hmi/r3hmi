@@ -1,97 +1,234 @@
-<h3>Hi, I'm Rehmi! 🤖 <br/>
-<a href="https://www.linkedin.com/in/imranrehmi">Data Science Manager - </a>  
-<a href="https://www.linkedin.com/in/imranrehmi">AI Solution Lead</a>  
+### Imran Rehmi
 
-####  APPLIED AI, DECISION SCIENCE & MLOPS PORTFOLIO 🤖🧠🇦🇮👾
+### Applied AI · Decision Science · MLOps
 
-> FOCUS: Transitioning research models to high-throughput production architectures. 
+Data Science and AI leader building production-oriented systems across causal inference, computer vision, LLM infrastructure, world models and data-centric AI.
 
->  ✨ [`01_FLAGSHIP_PROJECTS`](#-flagship-applied-ai-projects)
-> ✨ [`02_LECTURE_SERIES`](#-leadership--lecture-series) 
-> ✨ [`03_ENGINEERING_GUIDES`](#-technical-tutorials--engineering-guides) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Imran_Rehmi-0A66C2?logo=linkedin)](https://www.linkedin.com/in/imranrehmi)
+[![GitHub](https://img.shields.io/badge/GitHub-R3hmi-181717?logo=github)](https://github.com/R3hmi)
+[![YouTube](https://img.shields.io/badge/YouTube-@r3hmi-FF0000?logo=youtube)](https://www.youtube.com/@r3hmi)
 
-##### ⭐ Flagship Applied AI Projects 
+> **Current focus:** Translating applied AI research into reliable, explainable and scalable production systems.
 
-### 💥 1. Causal Decision Intelligence & Spatial-Temporal Marketplace Simulator 
+---
 
-`STACK:` `Python` | `SimPy` | `EconML` | `CausalML` | `OR-Tools` | `GeoPandas` | `PyTorch` | `Streamlit` 
+## Portfolio
 
-A discrete-event simulation and decision-intelligence platform for evaluating operational interventions across two-sided delivery networks. Rather than merely predicting demand, the system estimates heterogeneous treatment effects and optimizes dynamic operational interventions under constraints. 
+- [Featured Projects](#featured-projects)
+- [Technical Focus](#technical-focus)
+- [Lecture Series](#lecture-series)
+- [Engineering Guides](#engineering-guides)
 
-### 👾 2. Edge-Optimized Industrial Vision System with Neural Attribution & Quantized Inference 
+---
 
-`STACK:` `Python` | `PyTorch` | `FastSAM` | `U-Net` | `ONNX Runtime` | `TensorRT` | `OpenCV` | `Grad-CAM` | `Docker` 
+## Technical Focus
 
-A production-oriented computer vision architecture for detecting, segmenting, and explaining industrial defects in resource-constrained edge environments. 
+```text
+Applied AI        Causal Inference       Decision Intelligence
+MLOps             LLM Infrastructure     Computer Vision
+World Models      GPU Inference          Responsible AI
+````
 
-### 🤖 3. Private Multi-Tenant Enterprise LLM Serving & GPU Orchestration Infrastructure 
+---
 
-`STACK:` `vLLM` | `Llama` | `Mistral` | `Kubernetes` | `Helm` | `Karpenter` | `Triton` | `Istio` | `WireGuard` | `Prometheus` | `Grafana` 
+# Featured Projects
 
-An on-premises and private-cloud orchestration platform for serving open-weight large language models within zero-trust enterprise boundaries. 
+## 01 · Rider Marketplace Lab
 
+### Causal Decision Intelligence for Delivery Networks
 
-### 🕹️ 4. Action-Conditioned Joint-Embedding Predictive Architecture (JEPA) for Visual Planning 
+**Stack:** `Python` · `SimPy` · `EconML` · `CausalML` · `OR-Tools` · `GeoPandas` · `PyTorch` · `Streamlit`
 
-`STACK:` `Python` | `PyTorch` | `Vision Transformers` | `Self-Supervised Learning` | `Gymnasium` | `MuJoCo` | `MPC` | `Hydra` | `W&B` 
+A simulation and decision-intelligence platform for evaluating operational interventions across two-sided delivery marketplaces.
 
-A research implementation of an action-conditioned Joint-Embedding Predictive Architecture (`JEPA`) for learning visual world dynamics without pixel reconstruction. 
+The system combines discrete-event simulation, heterogeneous treatment-effect estimation and constrained optimisation to test interventions such as rider incentives, shift allocation and spatial load balancing.
 
-### 📟 5. Programmatic Weak Supervision, Label Consensus & Parameter-Efficient Model Distillation 
+**Engineering focus**
 
-`STACK:` `Python` | `Snorkel` | `Hugging Face` | `PyTorch` | `QLoRA` | `PEFT` | `Llama 3` | `MLflow` | `FastAPI` 
+* Spatial-temporal supply and demand simulation
+* Causal treatment-effect estimation
+* Network interference and spillover analysis
+* Constraint-based intervention optimisation
+* Interactive operational scenario testing
 
-A data-centric AI pipeline combining weak supervision and parameter-efficient fine-tuning (`PEFT`) to build quality training sets and low-cost student models. 
+**Status:** `In Development`
 
+[View repository →](#)
 
-## 💾 Leadership & Lecture Series 
+---
 
-Practitioner-focused educational programs bridging technical implementation with strategic AI leadership and modern workflows. 
+## 02 · ForgeSight
 
-### 👽 `SERIES_01:` Leading AI from Strategy to Scale: Applying PMI-CPMAI * 
+### Edge-Optimised Industrial Vision System
 
-`[MODULES]` Operational opportunity framing, CPMAI project lifecycles, data readiness assessments, risk mitigation, human oversight, and enterprise value tracking. * 
+**Stack:** `Python` · `PyTorch` · `FastSAM` · `U-Net` · `ONNX Runtime` · `TensorRT` · `OpenCV` · `Grad-CAM` · `Docker`
 
-`[AUDIENCE]` AI Leaders, Program Managers, Product Leads, and Transformation Teams. * 
+A production-oriented computer vision system for detecting, segmenting and explaining industrial defects in resource-constrained environments.
 
-`[OBJECTIVE]` Practical bridge between strategic decision-making, governance, and technical execution.
+The project explores model quantisation, accelerated inference and neural attribution to make computer vision outputs both operationally useful and interpretable.
 
-### ֎🇦🇮 `SERIES_02:` AI-Native Analytics with Codex: The Science and Art of Data * 
+**Engineering focus**
 
-`[MODULES]` AI-augmented analytical workflows, pair-programming for exploratory data analysis, automated feature engineering, hallucination management, and code verification. * 
+* Defect detection and segmentation
+* ONNX and TensorRT inference optimisation
+* FP16 and INT8 model quantisation
+* Grad-CAM visual explanations
+* Containerised edge deployment
 
-`[AUDIENCE]` Data Scientists, Analytics Engineers, Business Intelligence Practitioners, and Technical Directors. * 
+**Status:** `Planned`
 
-`[OBJECTIVE]` Framework for modern data analytics where human judgment directs strategy while AI agents accelerate execution. --- 
+[View repository →](#)
 
+---
 
+## 03 · Sovereign AI Platform
 
+### Private Multi-Tenant LLM Serving Infrastructure
 
-## 📚 Technical Tutorials & Engineering Guides 
+**Stack:** `vLLM` · `Llama` · `Mistral` · `Kubernetes` · `Helm` · `Karpenter` · `NVIDIA Triton` · `Istio` · `WireGuard` · `Prometheus` · `Grafana`
 
+A private-cloud and on-premises platform for serving open-weight language models within controlled enterprise environments.
 
-| **Building Transformers from First Principles** | 
+The architecture focuses on GPU utilisation, tenant isolation, secure networking, autoscaling and production-grade observability.
 
-`PyTorch`, `CUDA`, `NumPy` | Multi-head self-attention mechanisms, positional encodings, tensor dimensional tracking, and CUDA memory profiling. | 
+**Engineering focus**
 
-| **Optimization-Based Meta-Learning (MAML)** |
+* OpenAI-compatible model serving
+* Dynamic batching and KV-cache management
+* GPU-aware Kubernetes scheduling
+* Multi-tenant isolation and access controls
+* Metrics, tracing and inference monitoring
+* Secure private-network deployment
 
-`PyTorch`, `higher` | Task distribution sampling, bi-level gradient optimization, first/second-order updates, and rapid few-shot adaptation. | 
+**Status:** `Architecture Defined`
 
-| **Explainable AI with SHAP & XGBoost** |
+[View repository →](#)
 
- `XGBoost`, `SHAP`, `Evidently` | TreeSHAP attribution, global/cohort feature interaction analysis, demographic auditing, and automated governance reports. | 
+---
 
-| **Diffusion Models from Scratch (DDPM)** |
+## 04 · LatentWorld
 
-`PyTorch`, `U-Net`, `CUDA` | Forward/reverse Markov processes, linear/cosine variance schedules, time-conditioned U-Nets, and sampling quality metrics. |
+### Action-Conditioned JEPA for Visual Planning
 
-| **Custom Triton Kernels for PyTorch** | 
+**Stack:** `Python` · `PyTorch` · `Vision Transformers` · `Gymnasium` · `MuJoCo` · `Model Predictive Control` · `Hydra` · `Weights & Biases`
 
-`OpenAI Triton`, `CUDA` | GPU memory hierarchy optimization, fused Softmax/LayerNorm, FlashAttention access patterns, and bandwidth profiling. | 
+A reconstruction-free visual world model that learns action-conditioned dynamics in latent space.
 
-================================================================================
-[NETWORK_ENDPOINTS]
+Instead of predicting future pixels, the system predicts how actions transform visual representations and uses the learned dynamics for goal-conditioned planning.
 
-[GITHUB]    [github.com/your-username](https://github.com/your-username)
-[LINKEDIN]  [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+**Engineering focus**
+
+* Self-supervised visual representation learning
+* Action-conditioned latent dynamics
+* Multi-step future-state prediction
+* Model-predictive control
+* Goal-conditioned visual planning
+* Experiment tracking and reproducibility
+
+**Status:** `Active Development`
+
+[View repository →](https://github.com/R3hmi/-latentworld)
+
+---
+
+## 05 · Weak Supervision Lab
+
+### Programmatic Labelling and Model Distillation
+
+**Stack:** `Python` · `Snorkel` · `Hugging Face` · `PyTorch` · `QLoRA` · `PEFT` · `Llama 3` · `MLflow` · `FastAPI`
+
+A data-centric AI pipeline for generating training labels using weak supervision and transferring knowledge into smaller, task-specific language models.
+
+The system combines labelling functions, probabilistic label aggregation, teacher-assisted annotation and parameter-efficient fine-tuning.
+
+**Engineering focus**
+
+* Programmatic labelling functions
+* Probabilistic label consensus
+* Teacher-student knowledge transfer
+* QLoRA and PEFT fine-tuning
+* Experiment and model tracking
+* API-based inference deployment
+
+**Status:** `Planned`
+
+[View repository →](#)
+
+---
+
+# Lecture Series
+
+## Series 01 · Leading AI from Strategy to Scale
+
+### Applying PMI-CPMAI to Enterprise AI Delivery
+
+A practitioner-focused lecture series connecting AI strategy, governance and technical delivery.
+
+**Topics**
+
+* AI opportunity framing
+* CPMAI delivery lifecycles
+* Data-readiness assessment
+* Risk and governance controls
+* Human oversight
+* Enterprise value measurement
+
+**Audience:** AI leaders, programme managers, product leaders and transformation teams.
+
+---
+
+## Series 02 · AI-Native Analytics with Codex
+
+### The Science and Art of Data
+
+A technical lecture series examining how AI coding agents can support modern analytical workflows without replacing human judgement.
+
+**Topics**
+
+* AI-assisted exploratory data analysis
+* Analytical pair programming
+* Automated feature engineering
+* Code verification and testing
+* Hallucination and failure management
+* Reproducible AI-assisted workflows
+
+**Audience:** Data scientists, analytics engineers, BI practitioners and technical leaders.
+
+---
+
+# Engineering Guides
+
+| Guide                                           | Technologies                     | Core Topics                                                                        |
+| ----------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------------------- |
+| **Building Transformers from First Principles** | `PyTorch` · `CUDA` · `NumPy`     | Multi-head attention, positional encodings, tensor dimensions and memory profiling |
+| **Optimisation-Based Meta-Learning**            | `PyTorch` · `higher`             | MAML, bi-level optimisation, task sampling and few-shot adaptation                 |
+| **Explainable AI with SHAP and XGBoost**        | `XGBoost` · `SHAP` · `Evidently` | TreeSHAP, cohort analysis, feature interactions and governance reporting           |
+| **Diffusion Models from Scratch**               | `PyTorch` · `U-Net` · `CUDA`     | DDPM processes, noise schedules, time conditioning and sampling evaluation         |
+| **Custom Triton Kernels for PyTorch**           | `OpenAI Triton` · `CUDA`         | Kernel fusion, GPU memory access, Softmax, LayerNorm and performance profiling     |
+
+---
+
+# Repository Standards
+
+Projects in this portfolio aim to include:
+
+* Reproducible development environments
+* Architecture and data-flow diagrams
+* Automated testing and continuous integration
+* Experiment tracking
+* Performance benchmarks
+* Model cards and documented limitations
+* Docker-based deployment
+* Clear technical decision records
+
+---
+
+# Contact
+
+* **GitHub:** [github.com/R3hmi](https://github.com/R3hmi)
+* **LinkedIn:** [linkedin.com/in/imranrehmi](https://www.linkedin.com/in/imranrehmi)
+* **YouTube:** [youtube.com/@r3hmi](https://www.youtube.com/@r3hmi)
+
+```
+```
+
