@@ -1,4 +1,4 @@
-######  Imran Rehmi 
+#### Imran Rehmi 
 
 #### Applied AI, Decision Science & MLOps Portfolio
 > **Engineering intelligent systems that transition from research and experimentation to reliable, measurable production outcomes.**
