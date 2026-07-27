@@ -2,7 +2,7 @@
 
 #### Applied AI, Decision Science & MLOps Portfolio
 > **Engineering intelligent systems that transition from research and experimentation to reliable, measurable production outcomes.**
-> > **Current focus:** Translating applied AI into reliable, explainable and scalable production systems.
+> **Current focus:** Translating applied AI into reliable, explainable and scalable production systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Imran_Rehmi-0A66C2?logo=linkedin)](https://www.linkedin.com/in/imranrehmi)
 [![GitHub](https://img.shields.io/badge/GitHub-R3hmi-181717?logo=github)](https://github.com/R3hmi)
