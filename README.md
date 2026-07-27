@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/imranrehmi">AI Solution Lead</a>  
 
 
-# Applied AI, Decision Science & MLOps Portfolio
+## Applied AI, Decision Science & MLOps Portfolio
 > **`STATUS: OPERATIONAL`**  
 > **`FOCUS: Transitioning research models to high-throughput production architectures.`**
 
@@ -21,7 +21,7 @@ Welcome! This repository serves as the primary system registry for my work acros
 
 ## 🚀 Flagship Applied AI Projects
 
-### 🛵 1. Causal Decision Intelligence & Spatial-Temporal Marketplace Simulator
+### 📊 1. Causal Decision Intelligence & Spatial-Temporal Marketplace Simulator
 `STACK:` `Python` | `SimPy` | `EconML` | `CausalML` | `OR-Tools` | `GeoPandas` | `PyTorch` | `Streamlit`
 
 A discrete-event simulation and decision-intelligence platform for evaluating operational interventions across two-sided delivery networks. Rather than merely predicting demand, the system estimates heterogeneous treatment effects and optimizes dynamic operational interventions under constraints.
@@ -47,7 +47,7 @@ A production-oriented computer vision architecture for detecting, segmenting, an
 
 ---
 
-### 🏛️ 3. Private Multi-Tenant Enterprise LLM Serving & GPU Orchestration Infrastructure
+### 🔐 3. Private Multi-Tenant Enterprise LLM Serving & GPU Orchestration Infrastructure
 `STACK:` `vLLM` | `Llama` | `Mistral` | `Kubernetes` | `Helm` | `Karpenter` | `Triton` | `Istio` | `WireGuard` | `Prometheus` | `Grafana`
 
 An on-premises and private-cloud orchestration platform for serving open-weight large language models within zero-trust enterprise boundaries.
@@ -60,7 +60,7 @@ An on-premises and private-cloud orchestration platform for serving open-weight 
 
 ---
 
-### 🌐 4. Action-Conditioned Joint-Embedding Predictive Architecture (JEPA) for Visual Planning
+### 🔬 4. Action-Conditioned Joint-Embedding Predictive Architecture (JEPA) for Visual Planning
 `STACK:` `Python` | `PyTorch` | `Vision Transformers` | `Self-Supervised Learning` | `Gymnasium` | `MuJoCo` | `MPC` | `Hydra` | `W&B`
 
 A research implementation of an action-conditioned Joint-Embedding Predictive Architecture (`JEPA`) for learning visual world dynamics without pixel reconstruction.
@@ -72,7 +72,7 @@ A research implementation of an action-conditioned Joint-Embedding Predictive Ar
 
 ---
 
-### 🧪 5. Programmatic Weak Supervision, Label Consensus & Parameter-Efficient Model Distillation
+### 🧬 5. Programmatic Weak Supervision, Label Consensus & Parameter-Efficient Model Distillation
 `STACK:` `Python` | `Snorkel` | `Hugging Face` | `PyTorch` | `QLoRA` | `PEFT` | `Llama 3` | `MLflow` | `FastAPI`
 
 A data-centric AI pipeline combining weak supervision and parameter-efficient fine-tuning (`PEFT`) to build quality training sets and low-cost student models.
@@ -83,6 +83,55 @@ A data-centric AI pipeline combining weak supervision and parameter-efficient fi
 
 ---
 
-## 📚 Technical Tutorials & Engineering Guides
+## 🎓 Leadership & Lecture Series
+
+Practitioner-focused educational programs bridging technical implementation with strategic AI leadership and modern workflows.
+
+### 💼 `SERIES_01:` Leading AI from Strategy to Scale: Applying PMI-CPMAI
+* `[MODULES]` Operational opportunity framing, CPMAI project lifecycles, data readiness assessments, risk mitigation, human oversight, and enterprise value tracking.
+* `[AUDIENCE]` AI Leaders, Program Managers, Product Leads, and Transformation Teams.
+* `[OBJECTIVE]` Practical bridge between strategic decision-making, governance, and technical execution.
+
+### 💻 `SERIES_02:` AI-Native Analytics with Codex: The Science and Art of Data
+* `[MODULES]` AI-augmented analytical workflows, pair-programming for exploratory data analysis, automated feature engineering, hallucination management, and code verification.
+* `[AUDIENCE]` Data Scientists, Analytics Engineers, Business Intelligence Practitioners, and Technical Directors.
+* `[OBJECTIVE]` Framework for modern data analytics where human judgment directs strategy while AI agents accelerate execution.
+
+---
+
+## 🛠️ Technical Tutorials & Engineering Guides
 
 First-principles implementations, mathematical derivations, and operational benchmarks for core machine learning paradigms.
+
++------------------------------------+----------------------------+-------------------------------------------------------------+
+| MODULE TITLE                       | CORE STACK                 | TECHNICAL CONCEPTS                                          |
++------------------------------------+----------------------------+-------------------------------------------------------------+
+| 📐 Transformers from First Prin.  | PyTorch, CUDA, NumPy       | Multi-Head Attention, Positional Encodings, CUDA Profiling  |
+| ⚡ Optimization-Based Meta-Learn  | PyTorch, higher            | Bi-Level Optimization, MAML, Rapid Few-Shot Adaptation      |
+| ⚙️ Explainable AI & Model Audit    | XGBoost, SHAP, Evidently   | TreeSHAP, Cohort Interactions, Demographic Governance       |
+| 🖥️ Diffusion Models from Scratch   | PyTorch, U-Net, CUDA       | Markov Processes, Cosine Schedules, Noise Prediction        |
+| 📡 Custom Triton GPU Kernels       | OpenAI Triton, CUDA        | Kernel Fusion, FlashAttention Patterns, SRAM/HBM Bandwidth  |
++------------------------------------+----------------------------+-------------------------------------------------------------+
+
+---
+
+## 🧩 System Capabilities & Matrix
+
+| SYSTEM DOMAIN | PRIMARY IMPLEMENTATION / REFERENCE MODULE |
+| :--- | :--- |
+| **`Causal Inference & Optimization`** 📊 | Causal Decision Intelligence & Marketplace Simulator |
+| **`Computer Vision & Edge AI`** 👁️ | Edge-Optimized Industrial Vision System |
+| **`LLM Infrastructure & MLOps`** 🔐 | Private Multi-Tenant Enterprise LLM Serving Platform |
+| **`Applied Research & World Models`** 🔬 | Action-Conditioned JEPA Architecture |
+| **`Data-Centric AI & Distillation`** 🧬 | Programmatic Weak Supervision Pipeline |
+| **`Deep Learning Fundamentals`** 📐 | Transformers & Diffusion Guides (First Principles) |
+| **`Meta-Learning & Optimization`** ⚡ | Optimization-Based Meta-Learning (`MAML`) |
+| **`Responsible AI & Governance`** ⚙️ | `SHAP` & `XGBoost` Explainability Guide |
+| **`GPU Engineering & Kernels`** 📡 | Custom `Triton` Kernels Guide |
+| **`AI Leadership & Education`** 💻 | Strategy Lecture Series & AI-Native Analytics |
+
+---
+
+### 📡 Network Endpoints
+* `[GITHUB]` [github.com/your-username](#)
+* `[LINKEDIN]` [linkedin.com/in/your-profile](#)
