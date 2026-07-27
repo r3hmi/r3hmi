@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/imranrehmi">AI Solution Lead</a>  
 
 
-## Applied AI, Decision Science & MLOps Portfolio
+### Applied AI, Decision Science & MLOps Portfolio
 > **`STATUS: OPERATIONAL`**  
 > **`FOCUS: Transitioning research models to high-throughput production architectures.`**
 
