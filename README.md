@@ -5,62 +5,67 @@
 
 ---
 
-## Applied AI Systems & Research-to-Production Engineering
-*Production-grade AI systems that translate state-of-the-art research into scalable, enterprise-ready ML and LLM platforms.*
+## Applied ANALYTICAL & AI Projects
 
+### RIDER-SIM: Causal Decision Intelligence for Two-Sided Marketplaces
+`Python` | `SimPy` | `EconML` | `CausalML` | `OR-Tools` | `GeoPandas` | `PyTorch` | `Streamlit`
 
-### 🧠 [LatentWorld: Action-Conditioned JEPA World Models for Visual Prediction and Planning](https://github.com/r3hmi/-latentworld)
-**Stack:** `Python` | `PyTorch` | `Vision Transformers` | `Gymnasium` | `Model Predictive Control` | `Weights & Biases` | `Hydra` | `Streamlit` | `Docker` | `GitHub Actions`
-* **Description:** LatentWorld is a pure-PyTorch research implementation of an action-conditioned Joint-Embedding Predictive Architecture. Rather than generating future pixels, the model predicts how actions transform visual representations over time. The learned latent dynamics are evaluated through multi-step prediction, action sensitivity and goal-conditioned control using model-predictive planning. 
-* 
-* **Research Implementation:** Built a **Hierarchical JEPA (H-JEPA)** prioritizing semantic future-state prediction over computationally expensive pixel-rendering.
-* **Performance:** Leveraged a **Masked Autoencoder (MAE)** backbone to achieve robust spatial-temporal understanding, essential for autonomous decision-making in high-noise environments.
-* **Innovation:** Bypasses "Pixel-Waste" to focus on high-level world logic, significantly reducing VRAM requirements for complex sequence prediction.
+A discrete-event simulation and decision-intelligence platform for evaluating operational interventions across two-sided delivery networks. Rather than merely predicting demand, the system estimates treatment effects and optimizes dynamic operational interventions.
 
-
-### 🛡️ [Sovereign AI: Zero-Trust On-Premises Platform](https://github.com/r3hmi)
-**Stack:** `vLLM` | `Mistral/Llama 3` | `Docker` | `WireGuard` | `NVIDIA Triton` | `Kubernetes`
-* **Bottom-Line Impact:** Reduced cloud inference spend by **70%** by orchestrating Mistral via `vLLM` on localized GPU clusters.
-* **Security Architecture:** Implemented a **Zero-Trust Sidecar** with `WireGuard` and `OIDC`, ensuring enterprise-grade data residency for high-security workflows.
-* **Efficiency:** Utilized **AWQ 4-bit Quantization** and **PagedAttention** to maximize throughput on commodity hardware.
-
-
-### 🏎️ [DriveSense: AI Drive-Through Queue SLA Monitoring](https://github.com/r3hmi)
-**Stack:** `YOLOv10` | `TensorRT` | `DeepSORT` | `GPT-4o API` | `Streamlit` | `Edge Runtime`
-* **Operational Impact:** Automated SLA monitoring by merging `YOLOv10` real-time detection with GenAI-driven natural language reporting.
-* **Edge Engineering:** Optimized the CV pipeline with `TensorRT` for **<30ms latency**, enabling deployment on resource-constrained edge hardware.
-* **Data Strategy:** Implemented **Local Stream Summarization**, pushing only high-value JSON metadata to the cloud to reduce bandwidth costs.
+* **Causal Intelligence:** Estimates incremental impacts of rider incentives, shift policies, and dynamic pricing using heterogeneous treatment-effect models.
+* **Marketplace Simulation:** Models spatial-temporal rider supply, order demand, service times, and congestion via discrete-event simulation.
+* **Decision Optimization:** Applies mixed-integer programming (OR-Tools) to rebalance geographic zones and allocate riders under operational constraints.
+* **Network Experimentation:** Evaluates policies while accounting for network interference, spillover effects, and SUTVA violations.
+* **Business Outcomes:** Connects operational levers directly to fulfillment rate, rider utilization, delivery time, and contribution margin.
 
 ---
 
-## 📂 Project Verticals: Agents, MLOps & Analytics
+### FORGE-VISION: An Explainable, Low-Latency Edge Inspection Architecture
+`Python` | `PyTorch` | `FastSAM` | `U-Net` | `ONNX Runtime` | `TensorRT` | `OpenCV` | `Grad-CAM` | `Docker`
 
-### 🤖 1. Agentic Systems & LLM Engineering
-* **[Modular RAG with Continual Learning](https://github.com/r3hmi):** `Pinecone (Serverless)` | `FastAPI` | `Prefect` | `MLflow` | `Evidently AI`
-    * *Highlights:* Implemented multi-tenant vector search using **Pinecone namespaces** and automated embedding refresh pipelines.
-* **[Bedrock AgentCore](https://github.com/r3hmi):** `AWS Bedrock` | `Claude 3.5` | `CDK` | `Terraform`
-* **[LLM-Assisted Labeling](https://github.com/r3hmi):** `Snorkel` | `GPT-4 (Teacher)` | `Llama-3 (Student)` | `Weak Supervision`
-* **[Llama Email Classifier](https://github.com/r3hmi):** `QLoRA Fine-tuning` | `In-Context Learning (ICL)` | `PyTorch` | `Hugging Face`
+A production-oriented computer vision architecture for detecting, segmenting, and explaining industrial defects in resource-constrained edge environments.
 
-### ⚙️ 2. MLOps, Infrastructure & Industrial IoT
-* **[GenAI on K8s](https://github.com/r3hmi):** `Kubernetes` | `Helm` | `Karpenter (Auto-scaling)` | `NVIDIA-Docker` | `Istio`
-* **[Industrial IoT Predictive Maintenance](https://github.com/r3hmi):** `PySpark` | `Kafka` | `DVC` | `Grafana` | `Automated Retraining`
-* **[Graph-MLOps (Neo4j + SageMaker)](https://github.com/r3hmi):** `Neo4j` | `Amazon SageMaker` | `GraphSAGE` | `DGL` | `Step Functions`
-* **[RecomPulse](https://github.com/r3hmi):** `Feast (Feature Store)` | `Redis` | `Spark Streaming` | `CI/CD` | `ANN Retrieval`
-* **[Deep RL with Gymnasium](https://github.com/r3hmi):** `Stable Baselines3` | `PPO` | `DQN` | `A2C` | `MuJoCo`
+* **Vision Pipeline:** End-to-end detection and semantic segmentation for surface defects, component damage, and production anomalies.
+* **Edge Optimization:** Compiles PyTorch models to ONNX and TensorRT for execution on resource-constrained hardware.
+* **Performance Benchmarking:** Real-time execution target (<15 ms latency) across FP32, FP16, and INT8 quantization modes.
+* **Explainability & Monitoring:** Integrates Grad-CAM visual attribution overlays alongside tracking for data drift, confidence shift, and latency degradation.
+* **Production Packaging:** Containerized microservice in Docker with reproducible preprocessing and prediction interfaces.
 
-### 📊 3. Data Engineering & Applied Analytics
-* **[Real-Time Analytics Platform](https://github.com/r3hmi):** `Spark` | `Kafka` | `DuckDB` | `Delta Lake` | `dbt`
-* **[TSP Optimizer](https://github.com/r3hmi):** `Python` | `Simulated Annealing` | `Tabu Search` | `Streamlit`
-* **[DelaySense](https://github.com/r3hmi):** `XGBoost` | `SHAP` | `LIME` | `Explainable AI` | `FastAPI`
-* **[Scenario-Driven Decision Engine](https://github.com/r3hmi):** `Monte Carlo Simulation` | `Pandas` | `NumPy` | `Risk Modeling`
+---
 
-### 🔬 4. Foundations Implementations
-* **[Transformer Architecture (PyTorch)](https://github.com/r3hmi):** `PyTorch` | `Multi-Head Attention` | `Positional Encoding`
-* **[Meta-Learning (MAML)](https://github.com/r3hmi):** `Few-Shot Learning` | `Optimization-based Meta-Learning` | `First Principles`
-* **[Neural-Symbolic Hybrid](https://github.com/r3hmi):** `Symbolic AI` | `Logic Constraints` | `Hallucination Mitigation`
-* **[LSTM Traffic Prediction](https://github.com/r3hmi):** `Keras/TensorFlow` | `Time Series Forecasting` | `Recurrent Neural Networks`
+### SOVEREIGN-LLM: High-Throughput Enterprise Infrastructure for Open-Weight Models
+`vLLM` | `Llama` | `Mistral` | `Kubernetes` | `Helm` | `Karpenter` | `Triton` | `Istio` | `WireGuard` | `Prometheus` | `Grafana`
 
+An on-premises and private-cloud orchestration platform for serving open-weight large language models within zero-trust enterprise boundaries.
+
+* **High-Performance Serving:** Leverages vLLM and NVIDIA Triton for continuous batching, KV-cache optimization, and OpenAI-compatible endpoints.
+* **GPU Orchestration:** Automated node provisioning, scale-to-zero, and GPU-aware scheduling via Kubernetes and Karpenter.
+* **Zero-Trust Security:** Enforces service-mesh routing (Istio), mutual TLS, role-based access control, and isolated namespaces.
+* **Production Observability:** Monitors Time-To-First-Token (TTFT), inter-token latency, queue depth, GPU memory utilization, and failure recovery.
+* **Cost Engineering:** Tracks real-time cost-per-request and cost-per-token metrics against capacity limits.
+
+---
+
+### LATENT-WORLD: Action-Conditioned JEPA Models for Visual Prediction & Planning
+`Python` | `PyTorch` | `Vision Transformers` | `Self-Supervised Learning` | `Gymnasium` | `MuJoCo` | `MPC` | `Hydra` | `W&B`
+
+A research implementation of an action-conditioned Joint-Embedding Predictive Architecture (JEPA) for learning visual world dynamics without pixel reconstruction.
+
+* **Latent-Space Prediction:** Predicts trajectory transformations in representation space rather than generating full future frames.
+* **Self-Supervised Learning:** Employs energy-based collapse-prevention mechanisms to train encoder and predictor networks.
+* **Goal-Conditioned Control:** Integrates Model Predictive Control (MPC) to plan action sequences targeting image-defined goals.
+* **Research Rigor:** Evaluates representation collapse, prediction consistency over multi-step rollouts, and action sensitivity.
+
+---
+
+### LABEL-DISTILL: Programmatic Weak Supervision & Model Distillation Pipeline
+`Python` | `Snorkel` | `Hugging Face` | `PyTorch` | `QLoRA` | `PEFT` | `Llama 3` | `MLflow` | `FastAPI`
+
+A data-centric AI pipeline combining weak supervision and parameter-efficient fine-tuning (PEFT) to build quality training sets and low-cost student models.
+
+* **Weak Supervision:** Combines heuristic rules, domain functions, and LLM-generated rationale labels via Snorkel consensus modeling.
+* **Student Distillation:** Fine-tunes smaller open-weight models using QLoRA to replicate teacher capabilities at a fraction of the serving cost.
+* **Quality & Governance:** Audits dataset lineage, tracks prompt versioning, and filters uncertain/contradictory labels for human review.
 ---
 
 ## Connect 
