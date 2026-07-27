@@ -11,30 +11,9 @@
 
 ---
 
-## Portfolio
+### Featured Projects
 
-- [Featured Projects](#featured-projects)
-- [Technical Focus](#technical-focus)
-- [Lecture Series](#lecture-series)
-- [Engineering Guides](#engineering-guides)
-
----
-
-## Technical Focus
-
-```text
-Applied AI        Causal Inference       Decision Intelligence
-MLOps             LLM Infrastructure     Computer Vision
-World Models      GPU Inference          Responsible AI
-````
-
----
-
-# Featured Projects
-
-## 01 · Rider Marketplace Lab
-
-### Causal Decision Intelligence for Delivery Networks
+#### 👾 01 · Causal Decision Intelligence for Delivery Networks
 
 **Stack:** `Python` · `SimPy` · `EconML` · `CausalML` · `OR-Tools` · `GeoPandas` · `PyTorch` · `Streamlit`
 
@@ -42,37 +21,19 @@ A simulation and decision-intelligence platform for evaluating operational inter
 
 The system combines discrete-event simulation, heterogeneous treatment-effect estimation and constrained optimisation to test interventions such as rider incentives, shift allocation and spatial load balancing.
 
-**Engineering focus**
-
-* Spatial-temporal supply and demand simulation
-* Causal treatment-effect estimation
-* Network interference and spillover analysis
-* Constraint-based intervention optimisation
-* Interactive operational scenario testing
-
 **Status:** `In Development`
 
 [View repository →](#)
 
 ---
 
-## 02 · ForgeSight
-
-### Edge-Optimised Industrial Vision System
+#### 💻 02 · Edge-Optimised Industrial Vision System
 
 **Stack:** `Python` · `PyTorch` · `FastSAM` · `U-Net` · `ONNX Runtime` · `TensorRT` · `OpenCV` · `Grad-CAM` · `Docker`
 
 A production-oriented computer vision system for detecting, segmenting and explaining industrial defects in resource-constrained environments.
 
 The project explores model quantisation, accelerated inference and neural attribution to make computer vision outputs both operationally useful and interpretable.
-
-**Engineering focus**
-
-* Defect detection and segmentation
-* ONNX and TensorRT inference optimisation
-* FP16 and INT8 model quantisation
-* Grad-CAM visual explanations
-* Containerised edge deployment
 
 **Status:** `Planned`
 
@@ -90,14 +51,6 @@ A private-cloud and on-premises platform for serving open-weight language models
 
 The architecture focuses on GPU utilisation, tenant isolation, secure networking, autoscaling and production-grade observability.
 
-**Engineering focus**
-
-* OpenAI-compatible model serving
-* Dynamic batching and KV-cache management
-* GPU-aware Kubernetes scheduling
-* Multi-tenant isolation and access controls
-* Metrics, tracing and inference monitoring
-* Secure private-network deployment
 
 **Status:** `Architecture Defined`
 
@@ -115,15 +68,6 @@ A reconstruction-free visual world model that learns action-conditioned dynamics
 
 Instead of predicting future pixels, the system predicts how actions transform visual representations and uses the learned dynamics for goal-conditioned planning.
 
-**Engineering focus**
-
-* Self-supervised visual representation learning
-* Action-conditioned latent dynamics
-* Multi-step future-state prediction
-* Model-predictive control
-* Goal-conditioned visual planning
-* Experiment tracking and reproducibility
-
 **Status:** `Active Development`
 
 [View repository →](https://github.com/R3hmi/-latentworld)
@@ -140,14 +84,6 @@ A data-centric AI pipeline for generating training labels using weak supervision
 
 The system combines labelling functions, probabilistic label aggregation, teacher-assisted annotation and parameter-efficient fine-tuning.
 
-**Engineering focus**
-
-* Programmatic labelling functions
-* Probabilistic label consensus
-* Teacher-student knowledge transfer
-* QLoRA and PEFT fine-tuning
-* Experiment and model tracking
-* API-based inference deployment
 
 **Status:** `Planned`
 
@@ -192,6 +128,12 @@ A technical lecture series examining how AI coding agents can support modern ana
 * Reproducible AI-assisted workflows
 
 **Audience:** Data scientists, analytics engineers, BI practitioners and technical leaders.
+
+1.Leading AI from Strategy to Scale:PMI-CPMAI Framework.Translating Executive Strategy into Governed, Measurable AI DeliveryFramework for moving AI initiatives from opportunity discovery to production.Focuses on business-value hypotheses, risk management, human oversight, and CPMAI adoption lifecycles.Target Audience: AI Leaders, Program Managers, Product & Transformation Teams.2.AI-Native Analytics with Codex:Hands-on Workshop Series.Augmenting the Modern Analytical Workflow with AI AgentsExplores pair-programming patterns for exploratory analysis, feature engineering, and statistical modeling.Covers analytical risk, hallucination mitigation, code validation, and preserving human judgment in automated workflows.Target Audience: Data Scientists, Analytics Engineers, and Technical Leaders.
+
+
+
+
 
 ---
 
