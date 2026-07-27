@@ -11,7 +11,6 @@
 > ✨ [`03_ENGINEERING_GUIDES`](#-technical-tutorials--engineering-guides) 
 
 ##### ⭐ Flagship Applied AI Projects 
--
 
 ### 💥 1. Causal Decision Intelligence & Spatial-Temporal Marketplace Simulator 
 
