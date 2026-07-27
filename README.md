@@ -7,9 +7,7 @@
 > FOCUS: Transitioning research models to high-throughput production architectures. 
 
 >  ✨ [`01_FLAGSHIP_PROJECTS`](#-flagship-applied-ai-projects)
--
 > ✨ [`02_LECTURE_SERIES`](#-leadership--lecture-series) 
--
 > ✨ [`03_ENGINEERING_GUIDES`](#-technical-tutorials--engineering-guides) 
 
 ##### ⭐ Flagship Applied AI Projects 
