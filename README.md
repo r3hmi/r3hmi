@@ -2,18 +2,21 @@
 <a href="https://www.linkedin.com/in/imranrehmi">Data Science Manager - </a>  
 <a href="https://www.linkedin.com/in/imranrehmi">AI Solution Lead</a>  
 
-# APPLIED AI, DECISION SCIENCE & MLOPS PORTFOLIO 🤖🧠🇦🇮👾
+###  APPLIED AI, DECISION SCIENCE & MLOPS PORTFOLIO 🤖🧠🇦🇮👾
 
 > FOCUS: Transitioning research models to high-throughput production architectures. 
 
-## Index 
+### Index 
 
 ✨ [`01_FLAGSHIP_PROJECTS`](#-flagship-applied-ai-projects)
+-
 ✨ [`02_ENGINEERING_GUIDES`](#-technical-tutorials--engineering-guides) 
+-
 ✨ [`03_LECTURE_SERIES`](#-leadership--lecture-series) 
+-
 
-
-## ⭐ Flagship Applied AI Projects 
+### ⭐ Flagship Applied AI Projects 
+-
 
 ### 💥 1. Causal Decision Intelligence & Spatial-Temporal Marketplace Simulator 
 
@@ -92,10 +95,6 @@ Practitioner-focused educational programs bridging technical implementation with
 | **Custom Triton Kernels for PyTorch** | 
 
 `OpenAI Triton`, `CUDA` | GPU memory hierarchy optimization, fused Softmax/LayerNorm, FlashAttention access patterns, and bandwidth profiling. | 
-
-
-
-
 
 ================================================================================
 [NETWORK_ENDPOINTS]
