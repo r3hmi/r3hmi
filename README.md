@@ -134,22 +134,6 @@ A technical lecture series examining how AI coding agents can support modern ana
 | **Optimisation-Based Meta-Learning**            | `PyTorch` · `higher`             | MAML, bi-level optimisation, task sampling and few-shot adaptation                 |
 | **Explainable AI with SHAP and XGBoost**        | `XGBoost` · `SHAP` · `Evidently` | TreeSHAP, cohort analysis, feature interactions and governance reporting           |
 | **Diffusion Models from Scratch**               | `PyTorch` · `U-Net` · `CUDA`     | DDPM processes, noise schedules, time conditioning and sampling evaluation         |
-| **Custom Triton Kernels for PyTorch**           | `OpenAI Triton` · `CUDA`         | Kernel fusion, GPU memory access, Softmax, LayerNorm and performance profiling     |
-
----
-
-# Repository Standards
-
-Projects in this portfolio aim to include:
-
-* Reproducible development environments
-* Architecture and data-flow diagrams
-* Automated testing and continuous integration
-* Experiment tracking
-* Performance benchmarks
-* Model cards and documented limitations
-* Docker-based deployment
-* Clear technical decision records
 
 ---
 
@@ -160,5 +144,5 @@ Projects in this portfolio aim to include:
 * **YouTube:** [youtube.com/@r3hmi](https://www.youtube.com/@r3hmi)
 
 ```
-```
+
 
