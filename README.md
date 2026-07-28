@@ -4,8 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-R3hmi-181717?logo=github)](https://github.com/R3hmi)
 
 #### Applied AI, Decision Science & MLOps Portfolio
-> **Engineering intelligent systems that transition from research and experimentation to reliable, measurable production outcomes.**
->> **Current focus:** Translating applied AI into reliable, explainable and scalable production systems.
+> **Engineering intelligent systems that transition from experimentation to reliable, measurable production outcomes.**
 
 ---
 
@@ -39,7 +38,7 @@ The project explores model quantisation, accelerated inference and neural attrib
 
 ---
 
-#### 03 · Sovereign AI Platform : Private Multi-Tenant LLM Serving Infrastructure
+#### ֎ 03 · Sovereign AI Platform : Private Multi-Tenant LLM Serving Infrastructure
 
 **Stack:** `vLLM` · `Llama` · `Mistral` · `Kubernetes` · `Helm` · `Karpenter` · `NVIDIA Triton` · `Istio` · `WireGuard` · `Prometheus` · `Grafana`
 
@@ -54,7 +53,7 @@ The architecture focuses on GPU utilisation, tenant isolation, secure networking
 
 ---
 
-#### 04 · LatentWorld : Action-Conditioned JEPA for Visual Planning
+#### 🌐04 · LatentWorld : Action-Conditioned JEPA for Visual Planning
 
 **Stack:** `Python` · `PyTorch` · `Vision Transformers` · `Gymnasium` · `MuJoCo` · `Model Predictive Control` · `Hydra` · `Weights & Biases`
 
