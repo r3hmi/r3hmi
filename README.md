@@ -82,7 +82,7 @@ The system combines labelling functions, probabilistic label aggregation, teache
 
 ---
 
-### Lecture Series
+#### Lecture Series
 
 #### Series 01 · Leading AI from Strategy to Scale: Applying PMI-CPMAI to Enterprise AI Delivery
 
@@ -93,7 +93,7 @@ A practitioner-focused lecture series connecting AI strategy, governance and tec
 [View repository →](#)  
 ---
 
-## Series 02 · AI-Native Analytics with Codex: The Science of Data Art. 
+#### Series 02 · AI-Native Analytics with Codex: The Science of Data Art. 
 
 A technical lecture series examining how AI coding agents can support modern analytical workflows without replacing human judgement.
 
@@ -103,7 +103,7 @@ A technical lecture series examining how AI coding agents can support modern ana
 
 ---
 
-# Tutorials 
+#### Tutorials 
 
 | Guide                                           | Technologies                     | Core Topics                                                                        |
 | ----------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------------------- |
