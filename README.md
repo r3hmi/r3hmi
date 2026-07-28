@@ -111,7 +111,7 @@ A technical lecture series examining how AI coding agents can support modern ana
 | **Optimisation-Based Meta-Learning**            | `PyTorch` · `higher`             | MAML, bi-level optimisation, task sampling and few-shot adaptation                 |
 | **Explainable AI with SHAP and XGBoost**        | `XGBoost` · `SHAP` · `Evidently` | TreeSHAP, cohort analysis, feature interactions and governance reporting           |
 | **Diffusion Models from Scratch**               | `PyTorch` · `U-Net` · `CUDA`     | DDPM processes, noise schedules, time conditioning and sampling evaluation         |
-| Evals Engineering for Production AI | Python    | Pytest · DeepEval · RAGAS · MLflow | Golden datasets, LLM grading, RAG/agent evaluation and CI/CD gates               |
+| **Evals Engineering for Production AI**         | Pytest · DeepEval · RAGAS        | Golden datasets, LLM grading, RAG/agent evaluation and CI/CD gates                 |
 
 ---
 
