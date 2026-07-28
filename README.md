@@ -53,7 +53,7 @@ The architecture focuses on GPU utilisation, tenant isolation, secure networking
 
 ---
 
-#### 🌐04 · LatentWorld : Action-Conditioned JEPA for Visual Planning
+#### 🌐 04 · LatentWorld : Action-Conditioned JEPA for Visual Planning
 
 **Stack:** `Python` · `PyTorch` · `Vision Transformers` · `Gymnasium` · `MuJoCo` · `Model Predictive Control` · `Hydra` · `Weights & Biases`
 
@@ -67,7 +67,7 @@ Instead of predicting future pixels, the system predicts how actions transform v
 
 ---
 
-#### 05 · Programmatic Labelling and Model Distillation
+#### ⿻ 05 · Programmatic Labelling and Model Distillation
 
 **Stack:** `Python` · `Snorkel` · `Hugging Face` · `PyTorch` · `QLoRA` · `PEFT` · `Llama 3` · `MLflow` · `FastAPI`
 
@@ -84,42 +84,22 @@ The system combines labelling functions, probabilistic label aggregation, teache
 
 ### Lecture Series
 
-#### Series 01 · Leading AI from Strategy to Scale
-
-### Applying PMI-CPMAI to Enterprise AI Delivery
+#### Series 01 · Leading AI from Strategy to Scale: Applying PMI-CPMAI to Enterprise AI Delivery
 
 A practitioner-focused lecture series connecting AI strategy, governance and technical delivery.
 
-**Topics**
-
-* AI opportunity framing
-* CPMAI delivery lifecycles
-* Data-readiness assessment
-* Risk and governance controls
-* Human oversight
-* Enterprise value measurement
-
 **Audience:** AI leaders, programme managers, product leaders and transformation teams.
 
+[View repository →](#)  
 ---
 
-## Series 02 · AI-Native Analytics with Codex: 
-
-### The Science of Data Art. 
+## Series 02 · AI-Native Analytics with Codex: The Science of Data Art. 
 
 A technical lecture series examining how AI coding agents can support modern analytical workflows without replacing human judgement.
 
-**Topics**
-
-* AI-assisted exploratory data analysis
-* Analytical pair programming
-* Automated feature engineering
-* Code verification and testing
-* Hallucination and failure management
-* Reproducible AI-assisted workflows
-
 **Audience:** Data scientists, analytics engineers, BI practitioners and technical leaders.
 
+[View repository →](#)
 
 ---
 
@@ -131,6 +111,7 @@ A technical lecture series examining how AI coding agents can support modern ana
 | **Optimisation-Based Meta-Learning**            | `PyTorch` · `higher`             | MAML, bi-level optimisation, task sampling and few-shot adaptation                 |
 | **Explainable AI with SHAP and XGBoost**        | `XGBoost` · `SHAP` · `Evidently` | TreeSHAP, cohort analysis, feature interactions and governance reporting           |
 | **Diffusion Models from Scratch**               | `PyTorch` · `U-Net` · `CUDA`     | DDPM processes, noise schedules, time conditioning and sampling evaluation         |
+| Evals Engineering for Production AI | Python    | Pytest · DeepEval · RAGAS · MLflow | Golden datasets, LLM grading, RAG/agent evaluation and CI/CD gates               |
 
 ---
 
@@ -138,7 +119,6 @@ A technical lecture series examining how AI coding agents can support modern ana
 
 * **GitHub:** [github.com/R3hmi](https://github.com/R3hmi)
 * **LinkedIn:** [linkedin.com/in/imranrehmi](https://www.linkedin.com/in/imranrehmi)
-* **YouTube:** [youtube.com/@r3hmi](https://www.youtube.com/@r3hmi)
 
 ```
 
