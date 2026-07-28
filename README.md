@@ -1,4 +1,4 @@
-#### Imran Rehmi {Data Science Manager & AI Enabler} 
+#### Imran Rehmi  ##### {Data Science Manager & AI Enabler} 
 
 #### Applied AI, Decision Science & MLOps Portfolio
 > **Engineering intelligent systems that transition from research and experimentation to reliable, measurable production outcomes.**
