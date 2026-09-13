@@ -1,4 +1,4 @@
-#### Imran Rehmi {Data Science Manager & AI Enabler} 
+#### Imran Rehmi {Data Science Manager & Applied AI Lead} 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Imran_Rehmi-0A66C2?logo=linkedin)](https://www.linkedin.com/in/imranrehmi)
 [![GitHub](https://img.shields.io/badge/GitHub-R3hmi-181717?logo=github)](https://github.com/R3hmi)
@@ -11,8 +11,6 @@
 ### Featured Projects
 
 #### 👾 01 · Causal Decision Intelligence for Delivery Networks
-
-**Causal AI for Intervention-Aware Logistics Optimisation**
 
 **Stack:** `Python` · `PyTorch` · `DoWhy` · `EconML` · `CausalML` · `OR-Tools` · `NetworkX` · `MLflow` · `Microsoft Fabric`
 
@@ -38,8 +36,6 @@ AI Governance framework for logistics, combining AI risk classification, Respons
 
 #### 💻 03 · Edge-Optimised Industrial Vision System
 
-**Real-Time Computer Vision and Edge MLOps for Industrial Inspection**
-
 **Stack:** `PyTorch` · `ONNX Runtime` · `TensorRT` · `Azure IoT Operations` · `Azure Arc` · `Azure ML` · `MLflow` · `Microsoft Fabric` · `Kubernetes` · `GitHub Actions`
 
 Edge-Optimised Industrial Vision System is a production-oriented computer-vision platform designed to perform low-latency industrial defect detection directly at the factory edge.
@@ -52,9 +48,7 @@ Vision models are trained in PyTorch, exported through ONNX and accelerated with
 
 ---
 
-#### 🏭 04 · Industrial AgentOS
-
-**Autonomous Industrial Reliability with OpenAI Agents**
+#### 🏭 04 · Industrial AgentOS: **Autonomous Industrial Reliability with OpenAI Agents**
 
 **Stack:** `Codex` · `OpenAI Agents SDK` · `Responses API` · `MCP` · `Digital Twins` · `Edge AI` · `Knowledge Graphs` · `Agent Evals`
 
