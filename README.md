@@ -12,11 +12,13 @@
 
 #### 👾 01 · Causal Decision Intelligence for Delivery Networks
 
-**Stack:** `Python` · `SimPy` · `EconML` · `CausalML` · `OR-Tools` · `GeoPandas` · `PyTorch` · `Streamlit`
+**Causal AI for Intervention-Aware Logistics Optimisation**
 
-A simulation and decision-intelligence platform for evaluating operational interventions across two-sided delivery marketplaces.
+**Stack:** `Python` · `PyTorch` · `DoWhy` · `EconML` · `CausalML` · `OR-Tools` · `NetworkX` · `MLflow` · `Microsoft Fabric`
 
-The system combines discrete-event simulation, heterogeneous treatment-effect estimation and constrained optimisation to test interventions such as rider incentives, shift allocation and spatial load balancing.
+Causal Decision Intelligence for Delivery Networks is a decision-optimisation platform that combines causal inference, treatment-effect modelling and operations research to determine which interventions are most likely to improve last-mile delivery performance.
+
+DoWhy, EconML and CausalML estimate the causal impact of actions such as rerouting, driver reassignment and capacity reallocation, while OR-Tools optimises resulting operational decisions across the delivery network. PyTorch supports predictive and policy models, NetworkX represents delivery dependencies and causal structures, MLflow tracks experiments and decision policies, and Microsoft Fabric provides the analytical layer for evaluating service levels, intervention effectiveness and operational value.
 
 **Status:** `In Development`
 
@@ -24,13 +26,25 @@ The system combines discrete-event simulation, heterogeneous treatment-effect es
 
 ---
 
-#### 💻 02 · Edge-Optimised Industrial Vision System
+#### ⚖️ 02 · Operationalising AI Governance in Logistics
 
-**Stack:** `Python` · `PyTorch` · `FastSAM` · `U-Net` · `ONNX Runtime` · `TensorRT` · `OpenCV` · `Grad-CAM` · `Docker`
+AI Governance framework for logistics, combining AI risk classification, Responsible AI, GenAI assurance, ISO 42001-inspired controls, NIST AI RMF and enterprise AI management.
 
-A production-oriented computer vision system for detecting, segmenting and explaining industrial defects in resource-constrained environments.
+**Status:** `In Development`
 
-The project explores model quantisation, accelerated inference and neural attribution to make computer vision outputs both operationally useful and interpretable.
+[View repository →](#)
+
+---
+
+#### 💻 03 · Edge-Optimised Industrial Vision System
+
+**Real-Time Computer Vision and Edge MLOps for Industrial Inspection**
+
+**Stack:** `PyTorch` · `ONNX Runtime` · `TensorRT` · `Azure IoT Operations` · `Azure Arc` · `Azure ML` · `MLflow` · `Microsoft Fabric` · `Kubernetes` · `GitHub Actions`
+
+Edge-Optimised Industrial Vision System is a production-oriented computer-vision platform designed to perform low-latency industrial defect detection directly at the factory edge.
+
+Vision models are trained in PyTorch, exported through ONNX and accelerated with ONNX Runtime and TensorRT before being containerised and deployed on Kubernetes edge infrastructure managed through Azure Arc. Azure IoT Operations provides resilient industrial messaging and telemetry, Azure ML and MLflow manage the model lifecycle, Microsoft Fabric delivers real-time operational analytics, and GitHub Actions automates testing, optimisation, deployment and rollback across the edge AI pipeline.
 
 **Status:** `Planned`
 
@@ -38,45 +52,17 @@ The project explores model quantisation, accelerated inference and neural attrib
 
 ---
 
-#### ֎ 03 · Sovereign AI Platform : Private Multi-Tenant LLM Serving Infrastructure
+#### 🏭 04 · Industrial AgentOS
 
-**Stack:** `vLLM` · `Llama` · `Mistral` · `Kubernetes` · `Helm` · `Karpenter` · `NVIDIA Triton` · `Istio` · `WireGuard` · `Prometheus` · `Grafana`
+**Autonomous Industrial Reliability with OpenAI Agents**
 
-A private-cloud and on-premises platform for serving open-weight language models within controlled enterprise environments.
+**Stack:** `Codex` · `OpenAI Agents SDK` · `Responses API` · `MCP` · `Digital Twins` · `Edge AI` · `Knowledge Graphs` · `Agent Evals`
 
-The architecture focuses on GPU utilisation, tenant isolation, secure networking, autoscaling and production-grade observability.
+Industrial AgentOS is an agentic industrial reliability platform built with Codex and powered by OpenAI's Agents SDK and Responses API, enabling specialised AI agents to detect, investigate and respond to equipment anomalies.
 
+Codex drives the engineering lifecycle across the multi-service repository, while MCP connects runtime agents to simulated industrial sensors, maintenance systems, digital twins and knowledge graphs. Specialist reliability, diagnostic and maintenance agents collaborate through structured handoffs and supervisory orchestration, with Edge AI providing anomaly signals, Agent Evals measuring diagnostic and tool-use performance, and human-approval gates controlling safety-critical actions.
 
-**Status:** `Architecture Defined`
-
-[View repository →](#)
-
----
-
-#### 🌐 04 · LatentWorld : Action-Conditioned JEPA for Visual Planning
-
-**Stack:** `Python` · `PyTorch` · `Vision Transformers` · `Gymnasium` · `MuJoCo` · `Model Predictive Control` · `Hydra` · `Weights & Biases`
-
-A reconstruction-free visual world model that learns action-conditioned dynamics in latent space.
-
-Instead of predicting future pixels, the system predicts how actions transform visual representations and uses the learned dynamics for goal-conditioned planning.
-
-**Status:** `Active Development`
-
-[View repository →](https://github.com/R3hmi/-latentworld)
-
----
-
-#### ⿻ 05 · Programmatic Labelling and Model Distillation
-
-**Stack:** `Python` · `Snorkel` · `Hugging Face` · `PyTorch` · `QLoRA` · `PEFT` · `Llama 3` · `MLflow` · `FastAPI`
-
-A data-centric AI pipeline for generating training labels using weak supervision and transferring knowledge into smaller, task-specific language models.
-
-The system combines labelling functions, probabilistic label aggregation, teacher-assisted annotation and parameter-efficient fine-tuning.
-
-
-**Status:** `Planned`
+**Status:** `In Development`
 
 [View repository →](#)
 
@@ -92,24 +78,35 @@ A practitioner-focused lecture series connecting AI strategy, governance and tec
 
 ---
 
-#### Series 02 · AI-Native Analytics with Codex: The Science of Data Art. 
+#### Series 02 · AI-Native Analytics with Codex: The Science of Data Art.
 
 A technical lecture series examining how AI coding agents can support modern analytical workflows without replacing human judgement.
 
 **Audience:** Data scientists, analytics engineers, BI practitioners and technical leaders.
 
+---
+
+#### Series 03 · Design Patterns for AI & ML Platforms
+
+A technical lecture series examining reusable architecture, engineering and operational patterns for building production AI and machine learning platforms.
+
+**Audience:** AI engineers, ML engineers, platform engineers, architects and technical leaders.
 
 ---
 
 #### Tutorials 
 
-| Guide                                           | Technologies                     | Core Topics                                                                        |
-| ----------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------------------- |
-| **Building Transformers from First Principles** | `PyTorch` · `CUDA` · `NumPy`     | Multi-head attention, positional encodings, tensor dimensions and memory profiling |
-| **Optimisation-Based Meta-Learning**            | `PyTorch` · `higher`             | MAML, bi-level optimisation, task sampling and few-shot adaptation                 |
-| **Explainable AI with SHAP and XGBoost**        | `XGBoost` · `SHAP` · `Evidently` | TreeSHAP, cohort analysis, feature interactions and governance reporting           |
-| **Diffusion Models from Scratch**               | `PyTorch` · `U-Net` · `CUDA`     | DDPM processes, noise schedules, time conditioning and sampling evaluation         |
-| **Evals Engineering for Production AI**         | Pytest · DeepEval · RAGAS        | Golden datasets, LLM grading, RAG/agent evaluation and CI/CD gates                 |
+| Guide | Technologies | Core Topics |
+| --- | --- | --- |
+| **Building Transformers from First Principles** | `PyTorch` · `CUDA` · `NumPy` | Multi-head attention, positional encodings, tensor dimensions and memory profiling |
+| **TinyLM Research Lab** | `PyTorch` · `Transformers` · `CUDA` | Pre-training, sparsity and mechanistic interpretability in small language models |
+| **ChatGPT System Design** | `LLMs` · `Distributed Systems` · `Vector Search` · `Caching` | Inference architecture, context management, retrieval, scaling and reliability |
+| **Foundation Recommendation: Netflix Inspired GenAI Recommender** | `PyTorch` · `Transformers` · `Recommendation Systems` | Generative ranking, personalisation, recommendation systems and causal evaluation |
+| **Optimisation-Based Meta-Learning** | `PyTorch` · `higher` | MAML, bi-level optimisation, task sampling and few-shot adaptation |
+| **Diffusion Models from Scratch** | `PyTorch` · `U-Net` · `CUDA` | DDPM processes, noise schedules, time conditioning and sampling evaluation |
+| **Evals Engineering for Production AI** | `Pytest` · `DeepEval` · `RAGAS` | Golden datasets, LLM grading, RAG/agent evaluation and CI/CD gates |
+| **Programmatic Labelling and Model Distillation** | `Snorkel` · `Hugging Face` · `PyTorch` · `QLoRA` · `PEFT` | Weak supervision, probabilistic label aggregation, teacher-assisted annotation and model distillation |
+| **Sovereign AI Platform: Private Multi-Tenant LLM Serving Infrastructure** | `vLLM` · `Llama` · `Mistral` · `Kubernetes` · `NVIDIA Triton` · `Istio` | Private LLM serving, GPU orchestration, tenant isolation, autoscaling and observability |
 
 ---
 
@@ -117,7 +114,4 @@ A technical lecture series examining how AI coding agents can support modern ana
 
 * **GitHub:** [github.com/R3hmi](https://github.com/R3hmi)
 * **LinkedIn:** [linkedin.com/in/imranrehmi](https://www.linkedin.com/in/imranrehmi)
-
-```
-
 
