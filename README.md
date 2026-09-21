@@ -70,6 +70,7 @@ A practitioner-focused lecture series connecting AI strategy, governance and tec
 
 **Audience:** AI leaders, programme managers, product leaders and transformation teams.
 
+[View repository →](#)
 ---
 
 #### Series 02 · AI-Native Analytics with Codex: The Science of Data Art.
@@ -78,6 +79,7 @@ A technical lecture series examining how AI coding agents can support modern ana
 
 **Audience:** Data scientists, analytics engineers, BI practitioners and technical leaders.
 
+[View repository →](#)
 ---
 
 #### Series 03 · Design Patterns for AI & ML Platforms
@@ -86,6 +88,7 @@ A technical lecture series examining reusable architecture, engineering and oper
 
 **Audience:** AI engineers, ML engineers, platform engineers, architects and technical leaders.
 
+[View repository →](#)
 ---
 
 #### Tutorials 
