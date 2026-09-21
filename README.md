@@ -20,7 +20,7 @@ DoWhy, EconML and CausalML estimate the causal impact of actions such as rerouti
 
 **Status:** `In Development`
 
-[View repository →](https://github.com/R3hmi/causal-decision-intelligence)
+[View repository →](https://github.com/r3hmi/projects-causal-intelligence)
 
 ---
 
@@ -30,7 +30,7 @@ AI Governance framework for logistics, combining AI risk classification, Respons
 
 **Status:** `In Development`
 
-[View repository →](https://github.com/R3hmi/ai-governance-logistics)
+[View repository →](https://github.com/R3hmi/projects-ai-governance-logistics)
 
 ---
 
@@ -44,7 +44,7 @@ Vision models are trained in PyTorch, exported through ONNX and accelerated with
 
 **Status:** `Planned`
 
-[View repository →](https://github.com/R3hmi/edge-industrial-vision)
+[View repository →](https://github.com/R3hmi/projects-edge-optimised-system)
 
 ---
 
@@ -58,7 +58,7 @@ Codex drives the engineering lifecycle across the multi-service repository, whil
 
 **Status:** `In Development`
 
-[View repository →](https://github.com/R3hmi/industrial-agentos)
+[View repository →](https://github.com/R3hmi/projects-autonomous-agents)
 
 ---
 
@@ -70,7 +70,7 @@ A practitioner-focused lecture series connecting AI strategy, governance and tec
 
 **Audience:** AI leaders, programme managers, product leaders and transformation teams.
 
-[View series →](https://github.com/R3hmi/enterprise-ai-delivery)
+[View series →](https://github.com/R3hmi/lectures-CPMAI)
 
 ---
 
@@ -80,7 +80,7 @@ A technical lecture series examining how AI coding agents can support modern ana
 
 **Audience:** Data scientists, analytics engineers, BI practitioners and technical leaders.
 
-[View series →](https://github.com/R3hmi/ai-native-analytics-codex)
+[View series →](https://github.com/R3hmi/lectures-science-of-data-art)
 
 ---
 
@@ -94,19 +94,19 @@ A technical lecture series examining reusable architecture, engineering and oper
 
 ---
 
-#### Tutorials 
+#### Labs 
 
 | Guide | Technologies | Core Topics |
 | --- | --- | --- |
-| **[Building Transformers from First Principles](https://github.com/R3hmi/transformers-from-first-principles)** | `PyTorch` · `CUDA` · `NumPy` | Multi-head attention, positional encodings, tensor dimensions and memory profiling |
-| **[TinyLM Research Lab](https://github.com/R3hmi/tinylm-research-lab)** | `PyTorch` · `Transformers` · `CUDA` | Pre-training, sparsity and mechanistic interpretability in small language models |
-| **[ChatGPT System Design](https://github.com/R3hmi/chatgpt-system-design)** | `LLMs` · `Distributed Systems` · `Vector Search` · `Caching` | Inference architecture, context management, retrieval, scaling and reliability |
-| **[Foundation Recommendation: Netflix-Inspired GenAI Recommender](https://github.com/R3hmi/genai-recommender-system)** | `PyTorch` · `Transformers` · `Recommendation Systems` | Generative ranking, personalisation, recommendation systems and causal evaluation |
-| **[Optimisation-Based Meta-Learning](https://github.com/R3hmi/meta-learning-pytorch)** | `PyTorch` · `higher` | MAML, bi-level optimisation, task sampling and few-shot adaptation |
-| **[Diffusion Models from Scratch](https://github.com/R3hmi/diffusion-models-from-scratch)** | `PyTorch` · `U-Net` · `CUDA` | DDPM processes, noise schedules, time conditioning and sampling evaluation |
-| **[Evals Engineering for Production AI](https://github.com/R3hmi/production-ai-evals)** | `Pytest` · `DeepEval` · `RAGAS` | Golden datasets, LLM grading, RAG/agent evaluation and CI/CD gates |
-| **[Programmatic Labelling and Model Distillation](https://github.com/R3hmi/programmatic-labelling-distillation)** | `Snorkel` · `Hugging Face` · `PyTorch` · `QLoRA` · `PEFT` | Weak supervision, probabilistic label aggregation, teacher-assisted annotation and model distillation |
-| **[Sovereign AI Platform: Private Multi-Tenant LLM Serving Infrastructure](https://github.com/R3hmi/sovereign-ai-platform)** | `vLLM` · `Llama` · `Mistral` · `Kubernetes` · `NVIDIA Triton` · `Istio` | Private LLM serving, GPU orchestration, tenant isolation, autoscaling and observability |
+| **[Building Transformers from First Principles](https://github.com/R3hmi/lab-building-transformers)** | `PyTorch` · `CUDA` · `NumPy` | Multi-head attention, positional encodings, tensor dimensions and memory profiling |
+| **[TinyLM Research Lab](https://github.com/R3hmi/lab-tinyLM-research-lab)** | `PyTorch` · `Transformers` · `CUDA` | Pre-training, sparsity and mechanistic interpretability in small language models |
+| **[ChatGPT System Design](https://github.com/R3hmi/lab-ChatGPT-system-design)** | `LLMs` · `Distributed Systems` · `Vector Search` · `Caching` | Inference architecture, context management, retrieval, scaling and reliability |
+| **[Foundation Recommendation: Netflix-Inspired GenAI Recommender](https://github.com/R3hmi/lab-netflix-recommender)** | `PyTorch` · `Transformers` · `Recommendation Systems` | Generative ranking, personalisation, recommendation systems and causal evaluation |
+| **[Optimisation-Based Meta-Learning](https://github.com/R3hmi/lab-meta-learning)** | `PyTorch` · `higher` | MAML, bi-level optimisation, task sampling and few-shot adaptation |
+| **[Diffusion Models from Scratch](https://github.com/R3hmi/lab-diffusion-models-from-scratch)** | `PyTorch` · `U-Net` · `CUDA` | DDPM processes, noise schedules, time conditioning and sampling evaluation |
+| **[Evals Engineering for Production AI](https://github.com/R3hmi/labs-evals-for-AI)** | `Pytest` · `DeepEval` · `RAGAS` | Golden datasets, LLM grading, RAG/agent evaluation and CI/CD gates |
+| **[Programmatic Labelling and Model Distillation](https://github.com/R3hmi/labs-programmatic-labelling)** | `Snorkel` · `Hugging Face` · `PyTorch` · `QLoRA` · `PEFT` | Weak supervision, probabilistic label aggregation, teacher-assisted annotation and model distillation |
+| **[Sovereign AI Platform: Private Multi-Tenant LLM Serving Infrastructure](https://github.com/R3hmi/lab-sovereign-AI)** | `vLLM` · `Llama` · `Mistral` · `Kubernetes` · `NVIDIA Triton` · `Istio` | Private LLM serving, GPU orchestration, tenant isolation, autoscaling and observability |
 
 ---
 
