@@ -20,7 +20,7 @@ DoWhy, EconML and CausalML estimate the causal impact of actions such as rerouti
 
 **Status:** `In Development`
 
-[View repository →](#)
+[View repository →](https://github.com/R3hmi/causal-decision-intelligence)
 
 ---
 
@@ -30,7 +30,7 @@ AI Governance framework for logistics, combining AI risk classification, Respons
 
 **Status:** `In Development`
 
-[View repository →](#)
+[View repository →](https://github.com/R3hmi/ai-governance-logistics)
 
 ---
 
@@ -44,7 +44,7 @@ Vision models are trained in PyTorch, exported through ONNX and accelerated with
 
 **Status:** `Planned`
 
-[View repository →](#)
+[View repository →](https://github.com/R3hmi/edge-industrial-vision)
 
 ---
 
@@ -58,7 +58,7 @@ Codex drives the engineering lifecycle across the multi-service repository, whil
 
 **Status:** `In Development`
 
-[View repository →](#)
+[View repository →](https://github.com/R3hmi/industrial-agentos)
 
 ---
 
@@ -70,7 +70,7 @@ A practitioner-focused lecture series connecting AI strategy, governance and tec
 
 **Audience:** AI leaders, programme managers, product leaders and transformation teams.
 
-[View repository →](#)
+[View series →](https://github.com/R3hmi/enterprise-ai-delivery)
 
 ---
 
@@ -80,7 +80,7 @@ A technical lecture series examining how AI coding agents can support modern ana
 
 **Audience:** Data scientists, analytics engineers, BI practitioners and technical leaders.
 
-[View repository →](#)
+[View series →](https://github.com/R3hmi/ai-native-analytics-codex)
 
 ---
 
@@ -90,7 +90,7 @@ A technical lecture series examining reusable architecture, engineering and oper
 
 **Audience:** AI engineers, ML engineers, platform engineers, architects and technical leaders.
 
-[View repository →](#)
+[View series →](https://github.com/R3hmi/ai-ml-platform-patterns)
 
 ---
 
@@ -99,7 +99,7 @@ A technical lecture series examining reusable architecture, engineering and oper
 | Guide | Technologies | Core Topics |
 | --- | --- | --- |
 | **Building Transformers from First Principles** | `PyTorch` · `CUDA` · `NumPy` | Multi-head attention, positional encodings, tensor dimensions and memory profiling |
-| **TinyLM Research Lab** | `PyTorch` · `Transformers` · `CUDA` | Pre-training, sparsity and mechanistic interpretability in small language models |
+| **[TinyLM Research Lab](https://github.com/R3hmi/tinylm-research-lab)** | `PyTorch` · `Transformers` · `CUDA` | Pre-training, sparsity and mechanistic interpretability in small language models |
 | **ChatGPT System Design** | `LLMs` · `Distributed Systems` · `Vector Search` · `Caching` | Inference architecture, context management, retrieval, scaling and reliability |
 | **Foundation Recommendation: Netflix Inspired GenAI Recommender** | `PyTorch` · `Transformers` · `Recommendation Systems` | Generative ranking, personalisation, recommendation systems and causal evaluation |
 | **Optimisation-Based Meta-Learning** | `PyTorch` · `higher` | MAML, bi-level optimisation, task sampling and few-shot adaptation |
