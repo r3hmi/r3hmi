@@ -98,15 +98,15 @@ A technical lecture series examining reusable architecture, engineering and oper
 
 | Guide | Technologies | Core Topics |
 | --- | --- | --- |
-| **Building Transformers from First Principles** | `PyTorch` · `CUDA` · `NumPy` | Multi-head attention, positional encodings, tensor dimensions and memory profiling |
+| **[Building Transformers from First Principles](https://github.com/R3hmi/transformers-from-first-principles)** | `PyTorch` · `CUDA` · `NumPy` | Multi-head attention, positional encodings, tensor dimensions and memory profiling |
 | **[TinyLM Research Lab](https://github.com/R3hmi/tinylm-research-lab)** | `PyTorch` · `Transformers` · `CUDA` | Pre-training, sparsity and mechanistic interpretability in small language models |
-| **ChatGPT System Design** | `LLMs` · `Distributed Systems` · `Vector Search` · `Caching` | Inference architecture, context management, retrieval, scaling and reliability |
-| **Foundation Recommendation: Netflix Inspired GenAI Recommender** | `PyTorch` · `Transformers` · `Recommendation Systems` | Generative ranking, personalisation, recommendation systems and causal evaluation |
-| **Optimisation-Based Meta-Learning** | `PyTorch` · `higher` | MAML, bi-level optimisation, task sampling and few-shot adaptation |
-| **Diffusion Models from Scratch** | `PyTorch` · `U-Net` · `CUDA` | DDPM processes, noise schedules, time conditioning and sampling evaluation |
-| **Evals Engineering for Production AI** | `Pytest` · `DeepEval` · `RAGAS` | Golden datasets, LLM grading, RAG/agent evaluation and CI/CD gates |
-| **Programmatic Labelling and Model Distillation** | `Snorkel` · `Hugging Face` · `PyTorch` · `QLoRA` · `PEFT` | Weak supervision, probabilistic label aggregation, teacher-assisted annotation and model distillation |
-| **Sovereign AI Platform: Private Multi-Tenant LLM Serving Infrastructure** | `vLLM` · `Llama` · `Mistral` · `Kubernetes` · `NVIDIA Triton` · `Istio` | Private LLM serving, GPU orchestration, tenant isolation, autoscaling and observability |
+| **[ChatGPT System Design](https://github.com/R3hmi/chatgpt-system-design)** | `LLMs` · `Distributed Systems` · `Vector Search` · `Caching` | Inference architecture, context management, retrieval, scaling and reliability |
+| **[Foundation Recommendation: Netflix-Inspired GenAI Recommender](https://github.com/R3hmi/genai-recommender-system)** | `PyTorch` · `Transformers` · `Recommendation Systems` | Generative ranking, personalisation, recommendation systems and causal evaluation |
+| **[Optimisation-Based Meta-Learning](https://github.com/R3hmi/meta-learning-pytorch)** | `PyTorch` · `higher` | MAML, bi-level optimisation, task sampling and few-shot adaptation |
+| **[Diffusion Models from Scratch](https://github.com/R3hmi/diffusion-models-from-scratch)** | `PyTorch` · `U-Net` · `CUDA` | DDPM processes, noise schedules, time conditioning and sampling evaluation |
+| **[Evals Engineering for Production AI](https://github.com/R3hmi/production-ai-evals)** | `Pytest` · `DeepEval` · `RAGAS` | Golden datasets, LLM grading, RAG/agent evaluation and CI/CD gates |
+| **[Programmatic Labelling and Model Distillation](https://github.com/R3hmi/programmatic-labelling-distillation)** | `Snorkel` · `Hugging Face` · `PyTorch` · `QLoRA` · `PEFT` | Weak supervision, probabilistic label aggregation, teacher-assisted annotation and model distillation |
+| **[Sovereign AI Platform: Private Multi-Tenant LLM Serving Infrastructure](https://github.com/R3hmi/sovereign-ai-platform)** | `vLLM` · `Llama` · `Mistral` · `Kubernetes` · `NVIDIA Triton` · `Istio` | Private LLM serving, GPU orchestration, tenant isolation, autoscaling and observability |
 
 ---
 
