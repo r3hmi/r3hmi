@@ -60,6 +60,8 @@ Codex drives the engineering lifecycle across the multi-service repository, whil
 
 [View repository →](https://github.com/R3hmi/projects-autonomous-agents)
 
+| **[Sovereign AI Platform: Private Multi-Tenant LLM Serving Infrastructure](https://github.com/R3hmi/lab-sovereign-AI)** | `vLLM` · `Llama` · `Mistral` · `Kubernetes` · `NVIDIA Triton` · `Istio` | Private LLM serving, GPU orchestration, tenant isolation, autoscaling and observability |
+
 ---
 
 #### Lecture Series
@@ -101,12 +103,10 @@ A technical lecture series examining reusable architecture, engineering and oper
 | **[Building Transformers from First Principles](https://github.com/R3hmi/lab-building-transformers)** | `PyTorch` · `CUDA` · `NumPy` | Multi-head attention, positional encodings, tensor dimensions and memory profiling |
 | **[TinyLM Research Lab](https://github.com/R3hmi/lab-tinyLM-research-lab)** | `PyTorch` · `Transformers` · `CUDA` | Pre-training, sparsity and mechanistic interpretability in small language models |
 | **[ChatGPT System Design](https://github.com/R3hmi/lab-ChatGPT-system-design)** | `LLMs` · `Distributed Systems` · `Vector Search` · `Caching` | Inference architecture, context management, retrieval, scaling and reliability |
+| System-One Decision Lab | PyTorch · Calibration · Selective Prediction · OOD Detection · AI Routing | Specialised decision models for fast, calibrated routing, abstention, risk scoring and hybrid small-model/LLM orchestration |
 | **[Foundation Recommendation: Netflix-Inspired GenAI Recommender](https://github.com/R3hmi/lab-netflix-recommender)** | `PyTorch` · `Transformers` · `Recommendation Systems` | Generative ranking, personalisation, recommendation systems and causal evaluation |
-| **[Optimisation-Based Meta-Learning](https://github.com/R3hmi/lab-meta-learning)** | `PyTorch` · `higher` | MAML, bi-level optimisation, task sampling and few-shot adaptation |
-| **[Diffusion Models from Scratch](https://github.com/R3hmi/lab-diffusion-models-from-scratch)** | `PyTorch` · `U-Net` · `CUDA` | DDPM processes, noise schedules, time conditioning and sampling evaluation |
 | **[Evals Engineering for Production AI](https://github.com/R3hmi/labs-evals-for-AI)** | `Pytest` · `DeepEval` · `RAGAS` | Golden datasets, LLM grading, RAG/agent evaluation and CI/CD gates |
 | **[Programmatic Labelling and Model Distillation](https://github.com/R3hmi/labs-programmatic-labelling)** | `Snorkel` · `Hugging Face` · `PyTorch` · `QLoRA` · `PEFT` | Weak supervision, probabilistic label aggregation, teacher-assisted annotation and model distillation |
-| **[Sovereign AI Platform: Private Multi-Tenant LLM Serving Infrastructure](https://github.com/R3hmi/lab-sovereign-AI)** | `vLLM` · `Llama` · `Mistral` · `Kubernetes` · `NVIDIA Triton` · `Istio` | Private LLM serving, GPU orchestration, tenant isolation, autoscaling and observability |
 
 ---
 
