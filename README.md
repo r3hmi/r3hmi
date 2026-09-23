@@ -60,7 +60,19 @@ Codex drives the engineering lifecycle across the multi-service repository, whil
 
 [View repository →](https://github.com/R3hmi/projects-autonomous-agents)
 
-| **[Sovereign AI Platform: Private Multi-Tenant LLM Serving Infrastructure](https://github.com/R3hmi/lab-sovereign-AI)** | `vLLM` · `Llama` · `Mistral` · `Kubernetes` · `NVIDIA Triton` · `Istio` | Private LLM serving, GPU orchestration, tenant isolation, autoscaling and observability |
+---
+
+#### 🏛️ 05 · Sovereign AI Platform: Private Multi-Tenant LLM Serving Infrastructure
+
+**Stack:** `vLLM` · `Llama` · `Mistral` · `Kubernetes` · `NVIDIA Triton` · `Istio` · `Prometheus` · `Grafana`
+
+Sovereign AI Platform is a private LLM serving platform for running open-weight models such as Llama and Mistral across isolated enterprise tenants.
+
+The project focuses on practical platform engineering: GPU scheduling, high-throughput inference, tenant isolation, autoscaling, secure service-to-service communication and real-time monitoring of latency, throughput and GPU utilisation.
+
+**Status:** `Planned`
+
+[View repository →](https://github.com/R3hmi/lab-sovereign-AI)
 
 ---
 
