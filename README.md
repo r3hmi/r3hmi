@@ -106,7 +106,7 @@ A technical lecture series examining how AI coding agents can support modern ana
 | **[TinyLM Research Lab](https://github.com/R3hmi/lab-tinyLM-research-lab)** | `PyTorch` · `Transformers` · `CUDA` | Pre-training, sparsity and mechanistic interpretability in small language models |
 | **[ChatGPT System Design](https://github.com/R3hmi/lab-ChatGPT-system-design)** | `LLMs` · `Distributed Systems` · `Vector Search` · `Caching` | Inference architecture, context management, retrieval, scaling and reliability |
 | **[Foundation Recommendation: Netflix-Inspired GenAI Recommender](https://github.com/R3hmi/lab-netflix-recommender)** | `PyTorch` · `Transformers` · `Recommendation Systems` | Generative ranking, personalisation, recommendation systems and causal evaluation |
-| **[Diffusion Models from Scratch](https://github.com/R3hmi/lab-netflix-recommender)** | `PyTorch` · `Transformers` · `Recommendation Systems` | Generative ranking, personalisation, recommendation systems and causal evaluation |
+| **[Diffusion Models from Scratch](https://github.com/R3hmi/lab-netflix-recommender)** | `PyTorch` · `CUDA` · `U-Net` · `DDPM/DDIM` | Generative modelling, Gaussian noise processes, reverse diffusion, neural denoising and image synthesis |
 | **[Evals Engineering for Production AI](https://github.com/R3hmi/labs-evals-for-AI)** | `Pytest` · `DeepEval` · `RAGAS` | Golden datasets, LLM grading, RAG/agent evaluation and CI/CD gates |
 | **[Programmatic Labelling and Model Distillation](https://github.com/R3hmi/labs-programmatic-labelling)** | `Snorkel` · `Hugging Face` · `PyTorch` · `QLoRA` · `PEFT` | Weak supervision, probabilistic label aggregation, teacher-assisted annotation and model distillation |
 
