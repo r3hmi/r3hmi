@@ -109,6 +109,8 @@ A technical lecture series examining how AI coding agents can support modern ana
 | **[Diffusion Models from Scratch](https://github.com/R3hmi/lab-netflix-recommender)** | `PyTorch` · `CUDA` · `U-Net` · `DDPM/DDIM` | Generative modelling, Gaussian noise processes, reverse diffusion, neural denoising and image synthesis |
 | **[Evals Engineering for Production AI](https://github.com/R3hmi/labs-evals-for-AI)** | `Pytest` · `DeepEval` · `RAGAS` | Golden datasets, LLM grading, RAG/agent evaluation and CI/CD gates |
 | **[Programmatic Labelling and Model Distillation](https://github.com/R3hmi/labs-programmatic-labelling)** | `Snorkel` · `Hugging Face` · `PyTorch` · `QLoRA` · `PEFT` | Weak supervision, probabilistic label aggregation, teacher-assisted annotation and model distillation |
+| **[Weight-space analysis](https://github.com/R3hmi/labs-programmatic-labelling)** | `Snorkel` · `Hugging Face` · `PyTorch` · `QLoRA` · `PEFT` | Weak supervision, probabilistic label aggregation, teacher-assisted annotation and model distillation |
+| **[Graph Engineering](https://github.com/R3hmi/labs-programmatic-labelling)** | `Snorkel` · `Hugging Face` · `PyTorch` · `QLoRA` · `PEFT` | Weak supervision, probabilistic label aggregation, teacher-assisted annotation and model distillation |
 
 ---
 
